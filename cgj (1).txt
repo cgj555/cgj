@@ -36,39 +36,39 @@ CCTV7,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000026715/1.m3u
 CCTV9,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8
 CCTV9,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018384/1.m3u8
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
-11-19-2024 Kowloon  
+九龙11-19-2024  
 CCTV4,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
-11-17-2024 Henan  
+河南省  
 CCTV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
 CCTV7,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017218/1.m3u8
-11-13-2024 Liaoning  
+辽宁  
 CCTV9,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/1.m3u8
 CCTV13,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/1.m3u8
-11-18-2024 Guangdong  
+广东省  
 CCTV15,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000008163/1.m3u8
-11-17-2024 Henan  
+河南省  
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-11-17-2024 Chongqing  
+重庆  
 CCTV10,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023734/1.m3u8
-11-09-2024 Chongqing  
+重庆  
 CCTV11,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/1.m3u8
-11-09-2024 Chongqing  
+重庆  
 CCTV12,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001640/1.m3u8
-11-09-2024 Chongqing  
+重庆  
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
-11-03-2024 Yunnan  
+云南省  
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8
-10-16-2024 Shanxi  
+山西10-16-2024  
 CCTV13,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
-09-27-2024 Ontario  
+安大略省  
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021349/1.m3u8
-09-23-2024 Guangdong  
+广东省  
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-09-23-2024 Guangdong  
+广东省  
 CCTV5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
-08-10-2024 Shandong  
+山东08-10-2024  
 CCTV5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m3u8
-07-27-2024 Shanghai  
+07-27-2024上海  
 CCTV10,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8
 
 CCTV10,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8
@@ -90,7 +90,7 @@ CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000023358/1.m3
 
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000056836/1.m3u8
 
-07-28-2024 Shandong  
+山东07-28-2024  
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
 
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8
@@ -301,9 +301,9 @@ CGTN,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009569/1.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv 
-凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
+凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2 J2
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
@@ -322,7 +322,7 @@ Amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
 1905电影(亚洲),http://8.134.236.66:45678/simon/dl/1905.php?id=1905a
 1905电影(国际),http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
-黑莓电影,http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371210150%2CEND&GuardEncType=2
+ 黑莓电影,http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C37121015 0 %2CEND&GuardEncType=2
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 北京淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
@@ -341,6 +341,56 @@ Amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 精品影院,http://zby.xjqxz.top/zh13/live.m3u8
 流金岁月,http://zby.xjqxz.top/hkdy1/live.m3u8
 院线大片,http://zby.xjqxz.top/zh06/live.m3u8
+高分电影,http://jiaojirentv.top/2020/dy.php?id=8770422
+高分电影,http://zzy789.xyz/douyu1.php?id=8770422
+高分电影,http://120.77.28.4:8648/douyu.php?id=8770422
+经典悬疑片,http://jiaojirentv.top/2020/yy.php?id=1382651363
+经典悬疑片,http://live.nctv.top/6688/yy.php?id=1382651363
+经典悬疑片,http://rihou.cc:555/dyy.php?id=1382651363
+僵尸恐怖,http://mtw.so/5FCWRo
+僵尸恐怖,http://rihou.cc:555/dhy.php?id=11342421
+僵尸恐怖,http://cdn.jdshipin.com:8880/huya.php?id=11342421
+僵尸恐怖,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342421
+神乐影剧,http://jiaojirentv.top/2020/dy.php?id=2935323
+神乐影剧,http://zzy789.xyz/douyu1.php?id=2935323
+神乐影剧,http://120.77.28.4:8648/douyu.php?id=2935323
+东方影院,http://jiaojirentv.top/2020/dy.php?id=1377142
+东方影院,http://zzy789.xyz/douyu1.php?id=1377142
+东方影院,http://120.77.28.4:8648/douyu.php?id=1377142
+动作影院,http://rihou.cc:555/dyy.php?id=1382745095
+动作影院,http://jiaojirentv.top/2020/yy.php?id=1382745095
+动作影院,http://live.nctv.top/6688/yy.php?id=1382745095
+盗墓电影,http://rihou.cc:555/dhy.php?id=21059552
+盗墓电影,http://cdn.jdshipin.com:8880/huya.php?id=21059552
+盗墓电影,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=21059552
+吃米滴虫,http://jiaojirentv.top/2020/dy.php?id=315457
+吃米滴虫,http://zzy789.xyz/douyu1.php?id=315457
+吃米滴虫,http://120.77.28.4:8648/douyu.php?id=315457
+经典喜剧片,http://rihou.cc:555/dhy.php?id=11352894
+经典喜剧片,http://cdn.jdshipin.com:8880/huya.php?id=11352894
+经典喜剧片,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352894
+经典影院,http://jiaojirentv.top/2020/yy.php?id=23512910
+经典影院,http://rihou.cc:555/dyy.php?id=23512910
+经典影院,http://live.nctv.top/6688/yy.php?id=23512910
+国产影院,http://jiaojirentv.top/2020/yy.php?id=1354210357
+国产影院,http://live.nctv.top/6688/yy.php?id=1354210357
+国产影院,http://rihou.cc:555/dyy.php?id=1354210357
+综合院线,http://jiaojirentv.top/2020/yy.php?id=1354143966
+综合院线,http://live.nctv.top/6688/yy.php?id=1354143966
+综合院线,http://rihou.cc:555/dyy.php?id=1354143966
+李连杰电影,http://rihou.cc:555/dhy.php?id=11342390
+李连杰电影,http://cdn.jdshipin.com:8880/huya.php?id=11342390
+李连杰电影,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342390
+成龙电影,http://rihou.cc:555/dhy.php?id=11342386
+成龙电影,http://cdn.jdshipin.com:8880/huya.php?id=11342386
+成龙电影,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342386
+周星驰电影,http://rihou.cc:555/dhy.php?id=11342412
+周星驰电影,http://cdn.jdshipin.com:8880/huya.php?id=11342412
+周星驰电影,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342412
+林正英电影,http://mtw.so/5FCWRo
+林正英电影,http://rihou.cc:555/dhy.php?id=11342421
+林正英电影,http://cdn.jdshipin.com:8880/huya.php?id=11342421
+林正英电影,http://d1.x-y-z.sbs/小凯影视交流/hy.php
 老陈超级,#genre#
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
@@ -398,14 +448,9 @@ Amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 
 老陈综合,#genre#
-
-求索动物,http://iptv.887979.xyz/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索科学,http://iptv.887979.xyz/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索生活,http://iptv.887979.xyz/itv/6000000002000003382.m3u8?cdn=wasusyt
-凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv 
-凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
+凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2 J2
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
