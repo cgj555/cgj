@@ -247,6 +247,45 @@ CCTV14 少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001020
 CCTV15 音乐,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 CCTV16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV17 农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV世界地理,http://36.129.204.117:9003//hls/78/index.m3u8
+CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066
+CCTV世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066
+CCTV世界地理,http://60.7.56.33:4000/udp/239.253.92.131:6113
+CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435
+CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+CCTV央视台球,http://36.129.204.117:9003//hls/71/index.m3u8
+CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV怀旧剧场,http://121.19.134.139:808/tsfile/live/1035_1.m3u8
+CCTV怀旧剧场,http://60.2.190.206:4000/udp/239.253.93.252:6430
+CCTV第一剧场,http://121.19.134.139:808/tsfile/live/1033_1.m3u8
+CCTV第一剧场,http://60.7.56.33:4000/udp/239.253.93.138:6428
+CCTV第一剧场,http://121.19.134.139:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV第一剧场,http://nas.hssvm.com:8888/udp/225.1.1.183:5002
+CCTV风云剧场,http://121.19.134.139:808/tsfile/live/1034_1.m3u8
+CCTV风云剧场,http://121.19.134.139:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云足球,http://183.11.239.36:808/hls/133/index.m3u8
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
+CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+CCTV风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+CCTV风云音乐,http://121.19.134.139:808/tsfile/live/1036_1.m3u8
+CCTV风云音乐,http://121.19.134.139:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV高尔夫球,http://nas.hssvm.com:8888/udp/225.1.1.182:5002
+CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
+CETV1,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$订阅源-IPv6-1920x1080
+CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8$订阅源-IPv6-1920x1080
+CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$订阅源-IPv6-1920x1080
+CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8$订阅源-IPv6-1920x1080
+CETV4,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$订阅源-IPv6-1920x1080
+CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅源-IPv6-1920x1080
+
+CETV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+CETV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 CETV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
