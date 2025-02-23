@@ -231,26 +231,6 @@ CCTV风云音乐,http://119.125.134.227:9901/tsfile/live/1039_1.m3u8?key=txiptv&
 CCTV高尔夫网球,http://119.125.134.227:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
 
-CCTV1,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
-CCTV2,http://tv.20191209.xyz:37377/migu/631780532.m3u8?migutoken=862217ff2cffee0a741039e700509cb8f9a8b1920fe6cee55afb89ef1551eba3ecc744e93cf8e52cd8b4bf1a27c7a074745b640058072bfa4ad145917cdeb959261218d7b78174684a74ae78
-CCTV3,http://tv.20191209.xyz:37377/migu/624878271.m3u8?migutoken=6bf1444e1fd674ffdba5c57e719cecb87358abd9dfd0059ccfaceb24503ca14f393ec4b44fc2a4b2b5eded13d1f30a2052d85600414a1274345fcd95bd9848cf13bffeef1945f996928f0095
-CCTV4,http://tv.20191209.xyz:37377/migu/631780421.m3u8?migutoken=40b6a739d50c9611ac1bd3d6237cc8012f7bd8bd06945da894d03e393a3af480e950d8dc5e1a28cc2b74626afd48a747c2298114358e3f95be67743f3627ea5c2b12422eb6f434b52d57ce8c
-CCTV5,http://tv.20191209.xyz:37377/migu/641886683.m3u8?migutoken=81d12cec2983a402e950068a320720875c9b84d86ead50b7ee5cc3d407f55f3d85a8e298762710bc211027e047162ea27025e20dda4ac4921a6c1d8b950dbe297e15174889d5122c0e3462d0
-CCTV6,http://tv.20191209.xyz:37377/migu/624878396.m3u8?migutoken=14b6f481c50ac947cd74bf4b212c490bc99f4bebefd4ce18011c9eb269208a0ce9740af370135e855763df734bac8f57f36721ae54b6afc81829420e84f46c65a2de80938b057c6ec23459eb
-CCTV7,http://tv.20191209.xyz:37377/migu/673168121.m3u8?migutoken=76fbb50f9a12de455452a0b92fde921c6a9a596f2e4035246492270152653570a478746ff105876f101081cb38974e61faa26aebb018bef93a4d7b8a840fa3beb2b478fdb581d84460caa867
-CCTV8,http://tv.20191209.xyz:37377/migu/624878356.m3u8?migutoken=9d347588ab808559db972d3c94b0d970ec130153e4a6dde98c4466f1d3f85f58de23d16994f2f0ed903aa6727a7282cb17103e67b69c8e3f31d253bb78039a4df119e2cfeba6916d123a8003
-CCTV9,http://tv.20191209.xyz:37377/migu/673168140.m3u8?migutoken=f031388105c748c586faaad9c60beb6810562043675d6edc5e20d12b433d4ca6cb365c3f3ae060a000a9d0dfcfe0e27fef16bfe073d28cb40758aaa79ab380a9015815cfe9bfc4e6413e284a
-CCTV10,http://tv.20191209.xyz:37377/migu/624878405.m3u8?migutoken=06cf776d6a6cbe5cb707174dfad937c2164030bf7ce5f589493870891966f9cdaa5f56bad6e7874d683d5b1e3d9a6e59d0f7c78276d5ec47d979ae42b67833e261a2dda0118f3edcabd6a85b
-CCTV11,http://tv.20191209.xyz:37377/migu/667987558.m3u8?migutoken=d3962834d5d359e6f7f25a8880b73dac381a999ef87ba6b7f0f985bb5308a73061bbf5a9abdf873debb3b83b31eb7eff72f410c853c86f404b3f3ef269aeb631982e338f1400adcaf902fff7
-CCTV12,http://tv.20191209.xyz:37377/migu/673168185.m3u8?migutoken=3d92babc7a67aec41de5c1dc227d2bd8fd9aa5b6b3edb965f88dd9646adaa606101488515fe666e97721c2225a097e6a0f713f1e60f7427247164488ed52f9ec583d71d650f5382f878e71aa
-CCTV13,http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e776bcf238bb9088879a2b71a25a424b0d80d5e71375315cda109c5aab5c79693c4324d45ad012e70208234f659abbe606a595a03d29e06ce931ed56f129fbc95a505ab84f72c
-CCTV14,http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be2b0a959b0c1af15c62e7f86732fa2306e3a92f447f5b841e0cc26645dc89e70e970812e2c07c2fe24ae5c02b854544ed8c99d6c6d668a402d58cf351e77b5311afd
-CCTV15,http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
-CCTV16,http://183.184.229.252:9003//hls/17/index.m3u8
-CCTV16,http://36.105.100.208:35455/gaoma/cctv16.m3u8
-CCTV17,http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
-
-
 
 老陈卫视,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -411,6 +391,45 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV 萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
 北京IPTV 4K超清[0*0],http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+纯享4K,http://146.235.220.188:3389/1000000004000011651/ystenlive/index.m3u8?ace
+CCTV16_4K,http://146.235.220.188:3389/5000000008000023254/bestzb/index.m3u8?ace
+SiTV欢笑剧场4K,http://146.235.220.188:3389/5000000007000010001/bestzb/index.m3u8?ace
+华数4K,http://146.235.220.188:3389/6000000003000004748/wasusyt/index.m3u8?ace
+华数4K,http://146.235.220.188:3389/2000000004000000014/hnbblive/index.m3u8?ace
+黑莓电影,http://146.235.220.188:3389/1000000004000019624/ystenlive/index.m3u8?ace
+黑莓动画,http://146.235.220.188:3389/1000000004000021734/ystenlive/index.m3u8?ace
+哒啵电竞,http://146.235.220.188:3389/1000000006000032327/ystenlive/index.m3u8?ace
+哒啵赛事,http://146.235.220.188:3389/1000000001000003775/ystenlive/index.m3u8?ace
+电子竞技,http://146.235.220.188:3389/6000000003000011654/wasusyt/index.m3u8?ace
+高清娱乐,http://146.235.220.188:3389/6000000003000001569/wasusyt/index.m3u8?ace
+精彩影视,http://146.235.220.188:3389/6000000006000320630/wasusyt/index.m3u8?ace
+求索动物,http://146.235.220.188:3389/6000000002000010046/wasusyt/index.m3u8?ace
+求索纪录,http://146.235.220.188:3389/6000000002000032052/wasusyt/index.m3u8?ace
+求索科学,http://146.235.220.188:3389/6000000002000032344/wasusyt/index.m3u8?ace
+求索生活,http://146.235.220.188:3389/6000000002000003382/wasusyt/index.m3u8?ace
+华数服务,http://146.235.220.188:3389/2000000004000000025/hnbblive/index.m3u8?ace
+聚鲨环球精选,http://146.235.220.188:3389/6000000004000014516/wasusyt/index.m3u8?ace
+漫游世界,http://146.235.220.188:3389/6000000003000028434/wasusyt/index.m3u8?ace
+探索纪录,http://146.235.220.188:3389/5359008697329269813/wasusyt/index.m3u8?ace
+新海南,http://146.235.220.188:3389/2000000003000000011/hnbblive/index.m3u8?ace
+炫动3D,http://146.235.220.188:3389/6000000003000000558/wasusyt/index.m3u8?ace
+中国天气,http://146.235.220.188:3389/5000000005000031974/bestzb/index.m3u8?ace
+中华美食,http://146.235.220.188:3389/1000000005000266015/ystenlive/index.m3u8?ace
+少儿动漫,http://146.235.220.188:3389/8145334647720731271/wasusyt/index.m3u8?ace
+家庭理财,http://146.235.220.188:3389/5000000011000031210/bestzb/index.m3u8?ace
+华语影院,http://146.235.220.188:3389/5000000011000288005/bestzb/index.m3u8?ace
+星光影院,http://146.235.220.188:3389/5000000011000288013/bestzb/index.m3u8?ace
+全球大片,http://146.235.220.188:3389/5000000011000288009/bestzb/index.m3u8?ace
+热门剧场,http://146.235.220.188:3389/5000000011000288010/bestzb/index.m3u8?ace
+谍战剧场,http://146.235.220.188:3389/5000000011000288004/bestzb/index.m3u8?ace
+青春动漫,http://146.235.220.188:3389/5000000011000288008/bestzb/index.m3u8?ace
+宝宝动画,http://146.235.220.188:3389/5000000011000288002/bestzb/index.m3u8?ace
+戏曲精选,http://146.235.220.188:3389/5000000011000288012/bestzb/index.m3u8?ace
+热门综艺,http://146.235.220.188:3389/5000000011000288011/bestzb/index.m3u8?ace
+健康养生,http://146.235.220.188:3389/5000000011000288006/bestzb/index.m3u8?ace
+百变课堂,http://146.235.220.188:3389/5000000011000288001/bestzb/index.m3u8?ace
+看天下精选,http://146.235.220.188:3389/5000000011000288007/bestzb/index.m3u8?ace
+电竞天堂,http://146.235.220.188:3389/5000000011000288003/bestzb/index.m3u8?ace
 超级电视剧,http://www.douzhicloud.site:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 超级电影,http://www.douzhicloud.site:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 超级综艺,http://www.douzhicloud.site:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
@@ -441,40 +460,68 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 北京纪实科教,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
 
 
-SiTV-动漫秀场,http://xxx.504900.xyz:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-SiTV-都市剧场,http://xxx.504900.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
-SiTV-法治天地,http://xxx.504900.xyz:35455/itv/9001547084732463424.m3u8?cdn=bestzb
-SiTV-欢笑剧场,http://xxx.504900.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb
-SiTV-欢笑剧场-4K,http://xxx.504900.xyz:35455/itv/5000000007000010001.m3u8?cdn=bestzb
-SiTV-金色学堂,http://xxx.504900.xyz:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-SiTV-劲爆体育,http://xxx.504900.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-SiTV-乐游,http://xxx.504900.xyz:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-SiTV-魅力足球,http://xxx.504900.xyz:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-SiTV-七彩戏剧,http://xxx.504900.xyz:35455/itv/5000000011000031116.m3u8?cdn=bestzb
-SiTV-生活时尚,http://xxx.504900.xyz:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-SiTV-游戏风云,http://xxx.504900.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-iHOT-爱电竞,http://xxx.504900.xyz:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
-iHOT-爱谍战,http://xxx.504900.xyz:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-iHOT-爱动漫,http://xxx.504900.xyz:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-iHOT-爱都市,http://xxx.504900.xyz:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
-iHOT-爱怀旧,http://xxx.504900.xyz:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
-iHOT-爱经典,http://xxx.504900.xyz:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
-iHOT-爱科幻,http://xxx.504900.xyz:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-iHOT-爱科学,http://xxx.504900.xyz:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-iHOT-爱浪漫,http://xxx.504900.xyz:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
-iHOT-爱历史,http://xxx.504900.xyz:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-iHOT-爱旅行,http://xxx.504900.xyz:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-iHOT-爱奇谈,http://xxx.504900.xyz:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-iHOT-爱青春,http://xxx.504900.xyz:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
-iHOT-爱赛车,http://xxx.504900.xyz:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-iHOT-爱体育,http://xxx.504900.xyz:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-iHOT-爱玩具,http://xxx.504900.xyz:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
-iHOT-爱喜剧,http://xxx.504900.xyz:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-iHOT-爱悬疑,http://xxx.504900.xyz:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-iHOT-爱幼教,http://xxx.504900.xyz:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-iHOT-爱院线,http://xxx.504900.xyz:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-
-
+SiTV动漫秀场,http://146.235.220.188:3389/5000000002000023636/bestzb/index.m3u8?ace
+SiTV都市剧场,http://146.235.220.188:3389/5000000002000004412/bestzb/index.m3u8?ace
+SiTV法治天地,http://146.235.220.188:3389/9001547084732463424/bestzb/index.m3u8?ace
+SiTV欢笑剧场,http://146.235.220.188:3389/5000000002000009455/bestzb/index.m3u8?ace
+SiTV金色学堂,http://146.235.220.188:3389/5000000010000026105/bestzb/index.m3u8?ace
+SiTV劲爆体育,http://146.235.220.188:3389/5000000002000029972/bestzb/index.m3u8?ace
+SiTV乐游,http://146.235.220.188:3389/5000000006000040025/bestzb/index.m3u8?ace
+SiTV魅力足球,http://146.235.220.188:3389/5000000011000031207/bestzb/index.m3u8?ace
+SiTV七彩戏剧,http://146.235.220.188:3389/5000000011000031116/bestzb/index.m3u8?ace
+SiTV生活时尚,http://146.235.220.188:3389/5000000002000019634/bestzb/index.m3u8?ace
+SiTV游戏风云,http://146.235.220.188:3389/5000000002000027005/bestzb/index.m3u8?ace
+iHOT爱谍战,http://146.235.220.188:3389/6000000006000070630/wasusyt/index.m3u8?ace
+iHOT爱动漫,http://146.235.220.188:3389/6000000006000280630/wasusyt/index.m3u8?ace
+iHOT爱都市,http://146.235.220.188:3389/6000000006000080630/wasusyt/index.m3u8?ace
+iHOT爱怀旧,http://146.235.220.188:3389/6000000006000260630/wasusyt/index.m3u8?ace
+iHOT爱经典,http://146.235.220.188:3389/6000000006000060630/wasusyt/index.m3u8?ace
+iHOT爱科幻,http://146.235.220.188:3389/6000000006000020630/wasusyt/index.m3u8?ace
+iHOT爱科学,http://146.235.220.188:3389/6000000006000160630/wasusyt/index.m3u8?ace
+iHOT爱浪漫,http://146.235.220.188:3389/6000000006000040630/wasusyt/index.m3u8?ace
+iHOT爱历史,http://146.235.220.188:3389/6000000006000150630/wasusyt/index.m3u8?ace
+iHOT爱旅行,http://146.235.220.188:3389/6000000006000250630/wasusyt/index.m3u8?ace
+iHOT爱奇谈,http://146.235.220.188:3389/6000000006000270630/wasusyt/index.m3u8?ace
+iHOT爱青春,http://146.235.220.188:3389/6000000006000100630/wasusyt/index.m3u8?ace
+iHOT爱赛车,http://146.235.220.188:3389/6000000006000240630/wasusyt/index.m3u8?ace
+iHOT爱体育,http://146.235.220.188:3389/6000000006000290630/wasusyt/index.m3u8?ace
+iHOT爱玩具,http://146.235.220.188:3389/6000000006000220630/wasusyt/index.m3u8?ace
+iHOT爱喜剧,http://146.235.220.188:3389/6000000006000010630/wasusyt/index.m3u8?ace
+iHOT爱悬疑,http://146.235.220.188:3389/6000000006000050630/wasusyt/index.m3u8?ace
+iHOT爱幼教,http://146.235.220.188:3389/6000000006000180630/wasusyt/index.m3u8?ace
+iHOT爱院线,http://146.235.220.188:3389/6000000006000030630/wasusyt/index.m3u8?ace
+Hot风尚音乐,http://146.235.220.188:3389/5529729098703832176/wasusyt/index.m3u8?ace
+Hot精品剧场,http://146.235.220.188:3389/8230197131234717902/wasusyt/index.m3u8?ace
+Hot欧美影院,http://146.235.220.188:3389/7185203501769528108/wasusyt/index.m3u8?ace
+Hot亚洲影院,http://146.235.220.188:3389/5841816227539527643/wasusyt/index.m3u8?ace
+NewTV爱情喜剧,http://146.235.220.188:3389/8393829412396288037/ystenlive/index.m3u8?ace
+NewTV超级电视剧,http://146.235.220.188:3389/1000000004000024993/ystenlive/index.m3u8?ace
+NewTV超级电影,http://146.235.220.188:3389/1000000004000002120/ystenlive/index.m3u8?ace
+NewTV超级体育,http://146.235.220.188:3389/1000000004000007755/ystenlive/index.m3u8?ace
+NewTV超级综艺,http://146.235.220.188:3389/1000000004000023658/ystenlive/index.m3u8?ace
+NewTV潮妈辣婆,http://146.235.220.188:3389/6516734029835465177/ystenlive/index.m3u8?ace
+NewTV东北剧场,http://146.235.220.188:3389/1000000005000266013/ystenlive/index.m3u8?ace
+NewTV动作电影,http://146.235.220.188:3389/1000000004000018653/ystenlive/index.m3u8?ace
+NewTV古装剧场,http://146.235.220.188:3389/6859053933687922163/ystenlive/index.m3u8?ace
+NewTV欢乐剧场,http://146.235.220.188:3389/1000000005000266012/ystenlive/index.m3u8?ace
+NewTV家庭剧场,http://146.235.220.188:3389/1000000004000008284/ystenlive/index.m3u8?ace
+NewTV金牌综艺,http://146.235.220.188:3389/1000000004000026167/ystenlive/index.m3u8?ace
+NewTV惊悚悬疑,http://146.235.220.188:3389/1000000004000024282/ystenlive/index.m3u8?ace
+NewTV精品大剧,http://146.235.220.188:3389/1000000004000013968/ystenlive/index.m3u8?ace
+NewTV精品纪录,http://146.235.220.188:3389/1000000004000013730/ystenlive/index.m3u8?ace
+NewTV精品萌宠,http://146.235.220.188:3389/1000000006000032328/ystenlive/index.m3u8?ace
+NewTV精品体育,http://146.235.220.188:3389/1000000004000014634/ystenlive/index.m3u8?ace
+NewTV精品综合,http://146.235.220.188:3389/1000000004000019008/ystenlive/index.m3u8?ace
+NewTV军事评论,http://146.235.220.188:3389/5822616274253344775/ystenlive/index.m3u8?ace
+NewTV军旅剧场,http://146.235.220.188:3389/7485075951068666323/ystenlive/index.m3u8?ace
+NewTV魅力潇湘,http://146.235.220.188:3389/1000000005000266014/ystenlive/index.m3u8?ace
+NewTV农业致富,http://146.235.220.188:3389/6193684637634073625/ystenlive/index.m3u8?ace
+NewTV明星大片,http://146.235.220.188:3389/1000000004000019008/ystenlive/index.m3u8?ace
+NewTV武搏世界,http://146.235.220.188:3389/bokesen/ystenlive/index.m3u8?ace
+NewTV海外剧场,http://146.235.220.188:3389/7681593242002292003/ystenlive/index.m3u8?ace
+NewTV炫舞未来,http://146.235.220.188:3389/1000000001000000515/ystenlive/index.m3u8?ace
+NewTV怡伴健康,http://146.235.220.188:3389/1000000005000266011/ystenlive/index.m3u8?ace
+NewTV中国功夫,http://146.235.220.188:3389/5897056882324761054/ystenlive/index.m3u8?ace
 
 老陈影视,#genre#
 Amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -1020,6 +1067,89 @@ NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+美亚电影台,http://hk.666230.xyz/Smartv.php?id=meiyamovie_twn
+東森電影,http://hk.666230.xyz/Smartv1.php?id=ettvmovie
+HBO_HD,http://hk.666230.xyz/Smartv.php?id=hbohd_twn
+HBO强档,http://hk.666230.xyz/Smartv.php?id=hbohits_twn
+HBO原创,http://hk.666230.xyz/Smartv.php?id=hbosignature_twn
+HBO家庭,http://hk.666230.xyz/Smartv.php?id=fyi_twn
+Hollywood Movies,http://hk.666230.xyz/Smartv.php?id=hollywoodmovies_twn
+CINEMAX,http://hk.666230.xyz/Smartv.php?id=cinemax_twn
+AXN,http://hk.666230.xyz/Smartv.php?id=axn_twn
+CATCHPLAY,http://hk.666230.xyz/Smartv.php?id=catchplay_twn
+Warner TV,http://hk.666230.xyz/Smartv1.php?id=WarnerTV
+Thrill,http://hk.666230.xyz/Smartv1.php?id=Thrill
+TVBS,http://hk.666230.xyz/Smartv.php?id=tvbs
+TVBS新闻台,http://hk.666230.xyz/Smartv.php?id=tvbs_n
+TVBS欢乐台,http://hk.666230.xyz/Smartv.php?id=tvbshuanle_twn
+中天新闻,http://hk.666230.xyz/Smartv.php?id=ctinews
+中天娱乐,http://hk.666230.xyz/Smartv1.php?id=ctient
+中天综合,http://hk.666230.xyz/Smartv.php?id=ctizhonghe
+中天亚洲,http://hk.666230.xyz/Smartv1.php?id=ctiasia_twn
+台视,http://hk.666230.xyz/Smartv.php?id=ttv_taiwan
+台视新闻,http://hk.666230.xyz/Smartv.php?id=ttvnews_twn
+中视,http://hk.666230.xyz/Smartv.php?id=zhongshihd_twn
+中视新闻,http://hk.666230.xyz/Smartv1.php?id=zhongshinews_twn
+民视,http://hk.666230.xyz/Smartv.php?id=ftvhd_taiwan
+民视新闻,http://hk.666230.xyz/Smartv.php?id=ftvnew_taiwan
+民视台湾,http://hk.666230.xyz/Smartv.php?id=ftvtaiwan_twn
+华视,http://hk.666230.xyz/Smartv.php?id=ctshd_twn
+公视,http://hk.666230.xyz/Smartv.php?id=ctv_taiwan
+八大综合,http://hk.666230.xyz/Smartv.php?id=badazhonghe
+三立台湾,http://hk.666230.xyz/Smartv.php?id=sanlitaiwan
+三立戏剧,http://hk.666230.xyz/Smartv.php?id=sanlixiju_twn
+三立综合,http://hk.666230.xyz/Smartv.php?id=sanlizhonghe
+东森新闻,http://hk.666230.xyz/Smartv.php?id=ettvnews
+东森戏剧,http://hk.666230.xyz/Smartv1.php?id=ettvdrama
+东森财经新闻,http://hk.666230.xyz/Smartv.php?id=ettvcaijing_twn
+非凡新闻,http://hk.666230.xyz/Smartv.php?id=feifannews_twn
+年代新闻,http://hk.666230.xyz/Smartv.php?id=niandainews_twn
+龙华戏剧,http://hk.666230.xyz/Smartv.php?id=lunghuaxiju_twn
+龙华电影,http://hk.666230.xyz/Smartv.php?id=xingwei_movie
+龙华洋片,http://hk.666230.xyz/Smartv.php?id=lunghuajingdian_twn
+龙华洋片,http://hk.666230.xyz/Smartv.php?id=lunghuawestern_twn
+龙华偶像,http://hk.666230.xyz/Smartv.php?id=lunghuaidol_twn
+纬来电影,http://hk.666230.xyz/Smartv.php?id=videolandmovie
+纬来体育,http://hk.666230.xyz/Smartv.php?id=videolandsport
+纬来日本,http://hk.666230.xyz/Smartv.php?id=videolandjapan
+靖天国际,http://hk.666230.xyz/Smartv.php?id=jingtianintl_twn
+靖天卡通,http://hk.666230.xyz/Smartv.php?id=jingtiancartoon_twn
+大爱1台,http://hk.666230.xyz/Smartv.php?id=daai_twn
+亚洲美食,http://hk.666230.xyz/Smartv.php?id=afc_twn
+美食星球,http://hk.666230.xyz/Smartv.php?id=foodplanet_twn
+TLC旅游,http://hk.666230.xyz/Smartv.php?id=tlc_twn
+Arirang,http://hk.666230.xyz/Smartv.php?id=arirang_twn
+博斯运动1,http://hk.666230.xyz/Smartv.php?id=bosisport1_twn
+博斯运动2,http://hk.666230.xyz/Smartv.php?id=bosisport2_twn
+博斯高球2,http://hk.666230.xyz/Smartv.php?id=bosigolf2_twn
+博斯网球,http://hk.666230.xyz/Smartv.php?id=bositennis_twn
+博斯无限,http://hk.666230.xyz/Smartv.php?id=bosiunlimited_twn
+MTV Live,http://hk.666230.xyz/Smartv.php?id=mtvhd_twn
+龙祥時代,http://hk.666230.xyz/Smartv.php?id=lungxiangtime_twn
+EYETV旅游,http://hk.666230.xyz/Smartv.php?id=eyetvtravel_twn
+华艺中文台,http://hk.666230.xyz/Smartv.php?id=weishichinese_twn
+東森YoYo,http://hk.666230.xyz/Smartv.php?id=yoyo_twn
+ELTA影剧,http://hk.666230.xyz/Smartv.php?id=eltayingju_twn
+ELTA体育1台,http://hk.666230.xyz/Smartv.php?id=eltasport_twn
+ELTA体育2台,http://hk.666230.xyz/Smartv.php?id=eltasport2_twn
+ELTA体育3台,http://hk.666230.xyz/Smartv.php?id=eltasport3_twn
+亚洲旅游台,http://hk.666230.xyz/Smartv.php?id=asiatravel_twn
+兒童頻道,#genre#
+Baby TV Eng,http://hk.666230.xyz/Smartv.php?id=Babytv
+CBeebies,http://hk.666230.xyz/Smartv.php?id=Cbeebies
+Kids TV,http://hk.666230.xyz/Smartv.php?id=KidsTV
+Boomerang,http://hk.666230.xyz/Smartv.php?id=Boomerang
+Disney Taiwan,http://hk.666230.xyz/Smartv.php?id=disneytwn_twn
+Momo TV,http://hk.666230.xyz/Smartv.php?id=momo1_twn
+Animax,http://hk.666230.xyz/Smartv.php?id=Animax
+靖天卡通台,http://hk.666230.xyz/Smartv.php?id=jingtiancartoon_twn
+Boomerang Taiwan,http://hk.666230.xyz/Smartv.php?id=boomerang_twn
+Baby TV,http://hk.666230.xyz/Smartv.php?id=babytv_twn
+MiaoMi,http://hk.666230.xyz/Smartv.php?id=MiaoMi
+東森幼幼 Yoyo TV,http://hk.666230.xyz/Smartv.php?id=yoyo_twn
+Cartoon Network,http://hk.666230.xyz/Smartv.php?id=Cn
+Nickelodeon,http://hk.666230.xyz/Smartv.php?id=Nickelodeon
+Nick Jr,http://hk.666230.xyz/Smartv.php?id=Nickjr
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB J1,http://cdn5.1678520.xyz/live/?id=j1
 HOY 77,http://cdn5.1678520.xyz/live/?id=hoy
