@@ -1134,7 +1134,7 @@ ELTA体育1台,http://hk.666230.xyz/Smartv.php?id=eltasport_twn
 ELTA体育2台,http://hk.666230.xyz/Smartv.php?id=eltasport2_twn
 ELTA体育3台,http://hk.666230.xyz/Smartv.php?id=eltasport3_twn
 亚洲旅游台,http://hk.666230.xyz/Smartv.php?id=asiatravel_twn
-兒童頻道,#genre#
+
 Baby TV Eng,http://hk.666230.xyz/Smartv.php?id=Babytv
 CBeebies,http://hk.666230.xyz/Smartv.php?id=Cbeebies
 Kids TV,http://hk.666230.xyz/Smartv.php?id=KidsTV
