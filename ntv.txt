@@ -2093,7 +2093,6 @@ RTHK32,https://live.catvod.com/live.php?id=rhk32_twn&token=570b7ce9c057f877df848
 凤凰资讯,https://live.catvod.com/live.php?id=phoenixinfo_hd&token=cff7b5d4fbae0ad58f71a0e482573304231ba9656014a674233f8dd7c3860269%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 viutv6,https://live.catvod.com/live.php?id=viusix_twn&token=7bcf80ca588d32c17f2790e2c22c36ba8833cc05c2d0e1697ca9599bffb17d12%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-体育测试,#genre#
 
 TNT SPORTS 1,https://live.catvod.com/beesports.php?id=TNT-Sports-1&token=2a537baf79c4e1fa3f4f13fc482c80b76331c9f9c8af17698e7ae605ed44d22f%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 TNT SPORTS 1 [備線1],https://live.catvod.com/beesports.php?id=TNT-Sports-1-BU&token=c829f0724ddad7c87af6595901131ecacf8d29847383ceafbb8d90127c9908d2%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2182,7 +2181,7 @@ Sky Cinema Action,https://live.catvod.com/beesports.php?id=Sky-Cinema-Action&tok
 Sky Cinema Animation,https://live.catvod.com/beesports.php?id=Sky-Cinema-Animation&token=8c6083cbace4a580e84bedcce054d51023d5748dba656303d5861ecdac1d3c1c%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 Cartoon Network,https://live.catvod.com/beesports.php?id=UK-Cartoon-Network&token=3036a1e8e85798b597cbf251ec8c1f55b34859da97489f026cd8ddda03e058da%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-央视频道,#genre#
+
 
 CCTV1,https://live.catvod.com/live.php?id=cctv1&token=8f23826d5edc020ca84d3734cf8ec7880d1b2159baa8e26e11e4ac5b50f375cf%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 CCTV2,https://live.catvod.com/live.php?id=cctv2&token=586c381ff40d611b28279c36ac98afa58ff5efd0e526eef95eb36e5996847d8d%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2204,7 +2203,7 @@ CCTV-15,https://live.catvod.com/live.php?id=cctv15&token=44439edc92721ba1bc4d12c
 CCTV-16,https://live.catvod.com/live.php?id=cctv16&token=4d338d7e877c0e060d4bd0b32ef70a4a11f72160e9f1f2a88f143e0ef898681f%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=13f49b3a6b9d16ae88d736188d10765e7801751e698ee3cc4fc8ebc399916b7a%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-卫视频道,#genre#
+
 
 湖南卫视,https://live.catvod.com/live.php?id=hunan_twn&token=6e1ed0a556c25b5584f025e2bd2e203dc887a69682c4ef95620071b9730e8eae%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 浙江卫视,https://live.catvod.com/live.php?id=zhejiang_twn&token=b6a46c73d60496f026de8ad350102697dad5daa6dcc0123fa9504b48a0a50cf4%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2221,7 +2220,7 @@ CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=13f49b3a6b9d16ae88d7361
 四川卫视,https://live.catvod.com/live.php?id=sichuan_twn&token=f5ba0bb3ac3d66b2f89b1df07b7c3fc01c8b89ca416fd15a5735761b1e5c136d%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 CGTN,https://live.catvod.com/live.php?id=CGTN&token=c874f3fac92680f97fd13f1b071d16ce33a2690b098f807f2b59d46397d15422%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-体育频道,#genre#
+
 
 Astro Premier League 1,https://live.catvod.com/live.php?id=go_assp1&token=26d72f70be93e1cd8c04dbcea24e3ee3d43234e889058ea420ca157b5fb31b61%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 Astro EPL 1 backup,https://live.catvod.com/live.php?id=go_assp1x&token=1b408362002aed9b64ca3457941bce5fb207ef0514ab89b48b3b9292dd2e2193%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2273,7 +2272,7 @@ Astro Beinsports 3,https://live.catvod.com/live.php?id=Astrobein3&token=85667f5e
 DAZN1,https://live.catvod.com/live.php?id=dazn1_twn&token=e0baf50de9c7613d937061227100195e122319476356f407315843f244ec592e%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 DAZN2,https://live.catvod.com/live.php?id=dazn2_twn&token=6bd3e0cc60ffe35a7031beb4237398d83f223cee5c2bbf1f6d00192458181e53%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-台湾频道,#genre#
+
 
 TVBS新闻台,https://live.catvod.com/live.php?id=tvbs_n&token=65d62a1b438a1cfef469c9e59ca4316ba4ac2a33c929c19ffa58246b753bb521%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 TVBS欢乐台,https://live.catvod.com/live.php?id=tvbshuanle_twn&token=53f1569d44904b6f36015d13b8fd7ad881a90348f6d9efb71f81e58d35808ccd%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2362,7 +2361,7 @@ EYETV戏剧台,https://live.catvod.com/live.php?id=eyetvxiju_twn&token=86027128a
 龙华电影,https://live.catvod.com/live.php?id=xingwei_movie&token=e9ef115cd6cf0b28a649bd7aa640de4aa9c68b73460f045163beaf55e2f6e4ec%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 亚洲旅游台,https://live.catvod.com/live.php?id=asiatravel_twn&token=20b519414b72b77c3f5a17baa018cd800aa3e855e71b0934ec630ab76860ad40%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-电影频道,#genre#
+
 
 CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn&token=a56bb1588b9d357d70e73f357a2fbd902179b5e1e3b6e1a8d7efecacdaff309f%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=5aa85e19346346b223415357eb052b3183d240b4615cb70d85aace1ecd13aa18%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2394,7 +2393,7 @@ ROCK_ENTERTAINMENT,https://live.catvod.com/live.php?id=Rockentertain&token=d523d
 HBOHD,https://live.catvod.com/live.php?id=hbohd_twn&token=1686b160fa4e152d06a0230da137d4ce9449d4656a036c0e08b3796cb35feb6d%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 HBOHITS,https://live.catvod.com/live.php?id=hbohit_twn&token=b573984b40b141fbe7057ff051a29fcb8331ad0a752061270fc9e1a2cef856a5%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-记录频道,#genre#
+
 
 natgeo,https://live.catvod.com/live.php?id=natgeohd_twn&token=ccdc2eb632dc4563a4b16365c7f2ca366b607bb29215a188bf7e941f8d026d21%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 natgeowild,https://live.catvod.com/live.php?id=natgeowild_twn&token=8f2ab2e16b4d8488a7ddec798e63ee9e5fc4695a9d5be0d1ed9a33ae599764c1%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2414,7 +2413,7 @@ tlc,https://live.catvod.com/live.php?id=Tlc&token=ea8f7b4268dd439fcb9457a81f53b7
 FoodNetwork,https://live.catvod.com/live.php?id=Foodnetwork&token=53ed379ad24d1abcda326f0e720c880b4d8bebb68869c80925a74273622d4c87%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 HGTV,https://live.catvod.com/live.php?id=HGTV&token=6591043dd6c28e7945f60f7f14a5a3c27c23f9e9efc3e477310bc992bca24615%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-新闻频道,#genre#
+
 
 SkyNews,https://live.catvod.com/live.php?id=skynews_twn&token=4023aba76d528fbb4d3d5998155a8f9f48137d470ad074e90eafe6ecd82cf0ee%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 ABCNEWS,https://live.catvod.com/live.php?id=abcnews_glo&token=9bfec3ca521f1b9d864279def2e3d6e611b92298e9db7c5b4566605d515d0c0d%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2434,7 +2433,7 @@ BBCWORLDNEWS,https://live.catvod.com/live.php?id=Bbcnews&token=b6e0f0ebb56fc4146
 BloombergTV,https://live.catvod.com/live.php?id=bloomberg_twn&token=bf33c8a4ae8978545ff6119566eda5bad234ba798fdb7dfc063541da2308d5b7%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 aljazeera,https://live.catvod.com/live.php?id=aljazeera_twn&token=a0aeaaa0e22b9e0f134c272d08b37d141174f723ee27d0520dd8332af1833014%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-儿童频道,#genre#
+
 
 BABYTV,https://live.catvod.com/live.php?id=Babytv&token=bbecfe72f6c6f6f32bf8c6f68fd92cdae2cbc2df914c2c8860375a4de4e8ca1a%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 CBEEBIES,https://live.catvod.com/live.php?id=Cbeebies&token=92b3babb1c7cd50d975fd771f26e6de1d9a7db3189979eaed1ba35820f603dee%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
@@ -2447,7 +2446,7 @@ CARTOONNETWORK,https://live.catvod.com/live.php?id=Cn&token=9ea75c95586799ad1051
 Nickelodeon,https://live.catvod.com/live.php?id=Nickelodeon&token=37986d3ff0e26a4c9150ab4d115eb201ff09efbae309f45c3ba825de153a2b7a%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 NICKJR,https://live.catvod.com/live.php?id=Nickjr&token=df5ec573701343995ae3f97b8fbb3c2e253845917b17baae25a20917d76a9d16%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 
-其它频道,#genre#
+
 
 NHK,https://live.catvod.com/live.php?id=NHK&token=b8dacd9454163ea03b53ecb03aefa31b7bb583bf17d1497cf19bf1af12a21bfd%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
 CHANNEL5,https://live.catvod.com/live.php?id=Channel5HD&token=9c63a0206ae8c5a97d7d9355a550f6328e2bfdf595a2266778f39fd7fb5ed7e3%3A1764808294%3AMjQwZTozOTA6YTIxMDo2YjMwOjE5MTY6NWZlYjpiNDI2OmU1ODM%3D
