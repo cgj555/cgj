@@ -49,6 +49,8 @@ CCTV5+HD,http://ak.cj022.com:10080/hls/28/index.m3u8
 贵州卫视HD,http://ak.cj022.com:10080/hls/61/index.m3u8
 重庆卫视HD,http://ak.cj022.com:10080/hls/62/index.m3u8
 三沙卫视HD,http://ak.cj022.com:10080/hls/63/index.m3u8
+
+
 老陈咪咕,#genre#
 CCTV-1,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=2de6fb8fe492606fb474a14b7a6c5d
 CCTV-2,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=4452eb652d3bd58a638e4cd7a5b377
@@ -67,6 +69,7 @@ CCTV-13,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=54311cfe10ba3e
 CCTV-14,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=191043921f4e385a3da9d07d5afa4a
 CCTV-15,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=a3164edda7d995d984fa3eda49119a
 CCTV-17,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=5b516b81ca17af999a09d1aa7ea635
+
 CGTN外语,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=28a46b8a31c6a613c2d97264eaa53b
 CGTN-阿语,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=05c9be9123fffe3e7fc23a34978894
 CGTN-西语,http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=96382a75daccd6b6d17ab957cbbdaf
@@ -165,7 +168,7 @@ CCTV-17 ,http://iptv.cqshushu.com/migu.php?pid=cctv17&token=96fdfd991d57ea374763
 内蒙古卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&token=96fdfd991d57ea374763eba7334ca232
 兵团卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&token=96fdfd991d57ea374763eba7334ca232
 大湾区卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&token=96fdfd991d57ea374763eba7334ca232
-老陈央卫,#genre#
+老陈央卫1,#genre#
 CCTV1,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226933/1.m3u8
 CCTV1 ,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8
 CCTV1 ,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8
@@ -1704,8 +1707,29 @@ CCTV-12高清,http://audios.guangyuan.site:8188/rtp/239.77.0.136:5146
  第一剧场高清,http://audios.guangyuan.site:8188/rtp/239.253.43.15:5146
  风云音乐高清,http://audios.guangyuan.site:8188/rtp/239.253.43.29:5146
  风云音乐高清,http://audios.guangyuan.site:8188/rtp/239.253.43.6:5146
- 卫生健康高清,http://audios.guangyuan.site:8188/rtp/239.77.0.212:5146
-广东4k,http://audios.guangyuan.site:8188/rtp/239.77.0.27:5146
+ 
+CTV-16奥匹K,http://audios.guangyuan.site:8188/rtp/239.77.0.165:5146
+北京卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.2:5146
+北京卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.3:5146
+北京卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.153:5146
+北京卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.233:5146
+北京卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.1.13:5146
+东方卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.59:5146
+广东卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.27:5146
+广东卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.65:5146
+广东卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.66:5146
+深圳卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.67:5146
+深圳卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.1.14:5146
+湖南卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.56:5146
+山东卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.61:5146
+四川卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.60:5146
+浙江卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.58:5146
+江苏卫视4K,http://audios.guangyuan.site:8188/rtp/239.77.0.57:5146
+广东综艺K,http://audios.guangyuan.site:8188/rtp/239.77.0.244:5146
+广东综艺K,http://audios.guangyuan.site:8188/rtp/239.77.0.245:5146
+广东综艺K,http://audios.guangyuan.site:8188/rtp/239.77.1.237:5146
+南国都市4K,http://audios.guangyuan.site:8188/rtp/239.253.43.99:5146卫生健康高清,http://audios.guangyuan.site:8188/rtp/239.77.0.212:5146
+广东体育,http://audios.guangyuan.site:8188/rtp/239.77.0.27:5146
  金鹰卡通高清,http://audios.guangyuan.site:8188/rtp/239.77.0.164:5146
  CETV-1高清,http://audios.guangyuan.site:8188/rtp/239.77.1.222:5146
  中国教育-1高清,http://audios.guangyuan.site:8188/rtp/239.77.0.200:5146
@@ -1965,8 +1989,30 @@ CCTV-2高清,http://pr.19760929.xyz:9688/rtp/239.77.0.137:5146
  第一剧场高清,http://pr.19760929.xyz:9688/rtp/239.253.43.15:5146
  风云音乐高清,http://pr.19760929.xyz:9688/rtp/239.253.43.29:5146
  风云音乐高清,http://pr.19760929.xyz:9688/rtp/239.253.43.6:5146
- 卫生健康高清,http://pr.19760929.xyz:9688/rtp/239.77.0.212:5146
-广东4k,http://pr.19760929.xyz:9688/rtp/239.77.0.27:5146
+ 
+CTV-16奥匹K,http://pr.19760929.xyz:9688/rtp/239.77.0.165:5146
+北京卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.2:5146
+北京卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.3:5146
+北京卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.153:5146
+北京卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.233:5146
+北京卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.1.13:5146
+东方卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.59:5146
+广东卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.27:5146
+广东卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.65:5146
+广东卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.66:5146
+深圳卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.67:5146
+深圳卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.1.14:5146
+湖南卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.56:5146
+山东卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.61:5146
+四川卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.60:5146
+浙江卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.58:5146
+江苏卫视4K,http://pr.19760929.xyz:9688/rtp/239.77.0.57:5146
+广东综艺K,http://pr.19760929.xyz:9688/rtp/239.77.0.244:5146
+广东综艺K,http://pr.19760929.xyz:9688/rtp/239.77.0.245:5146
+广东综艺K,http://pr.19760929.xyz:9688/rtp/239.77.1.237:5146
+南国都市4K,http://pr.19760929.xyz:9688/rtp/239.253.43.99:5146
+卫生健康高清,http://pr.19760929.xyz:9688/rtp/239.77.0.212:5146
+广东体育,http://pr.19760929.xyz:9688/rtp/239.77.0.27:5146
  金鹰卡通高清,http://pr.19760929.xyz:9688/rtp/239.77.0.164:5146
  CETV-1高清,http://pr.19760929.xyz:9688/rtp/239.77.1.222:5146
  中国教育-1高清,http://pr.19760929.xyz:9688/rtp/239.77.0.200:5146
@@ -7285,5 +7331,4 @@ YY用户,http://192.168.0.146:38080/yy.php?id=1382736869
 当爸爸变成我兄弟？,http://192.168.0.146:38080/yy.php?id=1382749912
 不一样的花木兰传奇,http://192.168.0.146:38080/yy.php?id=1354930903
 燃燃影视,http://192.168.0.146:38080/yy.php?id=50298248
-
 
