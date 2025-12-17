@@ -100,7 +100,7 @@ CCTV-8K超高清,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B
 山西卫视HD,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 
 浙江组播,#genre#
-CCTV1,http://www.negative.top:50000/rtp/233.50.200.247:5140
+CCTV1,http://www.negative.top:50000/rtp/233.50.200.143:5140
 CCTV2,http://www.negative.top:50000/rtp/233.50.200.25:5140
 CCTV3,http://www.negative.top:50000/rtp/233.50.201.196:5140
 CCTV4,http://www.negative.top:50000/rtp/233.50.200.101:5140
@@ -246,7 +246,7 @@ CCTV4K,http://www.negative.top:50000/rtp/233.50.201.226:5140
 百事通画面,http://www.negative.top:50000/rtp/233.50.200.31:5140
 睛彩广场舞蹈,http://www.negative.top:50000/rtp/233.50.202.29:5140
 
-CCTV1,http://www.yeqi.eu.org:4000/rtp/233.50.200.247:5140
+CCTV1,http://www.yeqi.eu.org:4000/rtp/233.50.200.143:5140
 CCTV2,http://www.yeqi.eu.org:4000/rtp/233.50.200.25:5140
 CCTV3,http://www.yeqi.eu.org:4000/rtp/233.50.201.196:5140
 CCTV4,http://www.yeqi.eu.org:4000/rtp/233.50.200.101:5140
@@ -395,7 +395,7 @@ CCTV4K,http://www.yeqi.eu.org:4000/rtp/233.50.201.226:5140
 
 
 
-CCTV1,http://115.195.133.43:8888/rtp/233.50.200.247:5140
+CCTV1,http://115.195.133.43:8888/rtp/233.50.200.143:5140
 CCTV2,http://115.195.133.43:8888/rtp/233.50.200.25:5140
 CCTV3,http://115.195.133.43:8888/rtp/233.50.201.196:5140
 CCTV4,http://115.195.133.43:8888/rtp/233.50.200.101:5140
@@ -7482,6 +7482,7 @@ YY用户,http://192.168.0.146:38080/yy.php?id=1382736869
  洛飕飕,http://192.168.0.146:38080/douyu.php?id=9543361
  纆緣老给给,http://192.168.0.146:38080/douyu.php?id=9543413
  国士无双人物传奇,http://192.168.0.146:38080/douyu.php?id=9544555
+
 
 
 
