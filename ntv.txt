@@ -153,6 +153,33 @@ CCTV-8K超高清,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B
 甘肃卫视HD,http://yp.qqqtv.top/1/api.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD&auth=666858
 山西卫视HD,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 
+老陈4K,#genre#
+CCTV4K,https://5266.kstore.space/k-web/ku9/js/cctvnews.js?id=cctv4k
+湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=96fdfd991d57ea374763eba7334ca232
+浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=96fdfd991d57ea374763eba7334ca232
+东方卫视4K,http://iptv.cqshushu.com/migu.php?pid=dfws&token=96fdfd991d57ea374763eba7334ca232
+北京卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&token=96fdfd991d57ea374763eba7334ca232
+
+深圳卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&token=96fdfd991d57ea374763eba7334ca232
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=96fdfd991d57ea374763eba7334ca232
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=96fdfd991d57ea374763eba7334ca232
+河南卫视4k,http://zh.sqitv.com:888/hls/82/index.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+CCTV-16奥林匹克4K,https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+CCTV-4K超高清,https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+北京卫视4K,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+东方卫视4K,https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+江苏卫视4K,https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+浙江卫视4K,https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+山东卫视4K,https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+湖南卫视4K,https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+广东卫视4K,https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+深圳卫视4K,https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+四川卫视4K,https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+欢笑剧场4K,https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+纯享4K,https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
 
 
 
@@ -9142,5 +9169,6 @@ MTV Live,http://192.168.0.146:38080/tw.php?id=mtv
 天映频道,http://192.168.0.146:38080/tw.php?id=typd
 ELTA综合,http://192.168.0.146:38080/tw.php?id=elta
 AXN Taiwan,http://192.168.0.146:38080/tw.php?id=axn
+
 
 
