@@ -49,6 +49,41 @@ CCTV15,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv15
 国学频道,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom4
 湖北经视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom5
 老陈央卫2,#genre#
+CCTV-1,http://hls.netlive.ggff.net/hls/cctv1.m3u8
+CCTV-2,http://hls.netlive.ggff.net/hls/cctv2.m3u8
+CCTV-3,http://hls.netlive.ggff.net/hls/cctv3.m3u8
+CCTV-4,http://hls.netlive.ggff.net/hls/cctv4.m3u8
+CCTV-5,http://hls.netlive.ggff.net/hls/cctv5.m3u8
+CCTV-5+,http://hls.netlive.ggff.net/hls/cctv5p.m3u8
+CCTV-6,http://hls.netlive.ggff.net/hls/cctv6.m3u8
+CCTV-7,http://hls.netlive.ggff.net/hls/cctv7.m3u8
+CCTV-8,http://hls.netlive.ggff.net/hls/cctv8.m3u8
+CCTV-9,http://hls.netlive.ggff.net/hls/cctv9.m3u8
+CCTV-10,http://hls.netlive.ggff.net/hls/cctv10.m3u8
+CCTV-11,http://hls.netlive.ggff.net/hls/cctv11.m3u8
+CCTV-12,http://hls.netlive.ggff.net/hls/cctv12.m3u8
+CCTV-13,http://hls.netlive.ggff.net/hls/cctv13.m3u8
+CCTV-14,http://hls.netlive.ggff.net/hls/cctv14.m3u8
+CCTV-15,http://hls.netlive.ggff.net/hls/cctv15.m3u8
+CCTV-16,http://hls.netlive.ggff.net/hls/cctv16.m3u8
+CCTV-17,http://hls.netlive.ggff.net/hls/cctv17.m3u8
+CETV-1,http://hls.netlive.ggff.net/hls/cetv1.m3u8
+CETV-2,http://hls.netlive.ggff.net/hls/cetv2.m3u8
+CETV-4,http://hls.netlive.ggff.net/hls/cetv4.m3u8
+CHC 家庭影院,http://hls.netlive.ggff.net/hls/jtyy.m3u8
+CHC 动作电影,http://hls.netlive.ggff.net/hls/dzdy.m3u8
+CHC 影迷电影,http://hls.netlive.ggff.net/hls/ymdy.m3u8
+江苏卫视,http://hls.netlive.ggff.net/hls/jsws.m3u8
+广东卫视,http://hls.netlive.ggff.net/hls/gdws.m3u8
+湖南卫视,http://hls.netlive.ggff.net/hls/hunws.m3u8
+浙江卫视,http://hls.netlive.ggff.net/hls/zjws.m3u8
+东方卫视,http://hls.netlive.ggff.net/hls/dfws.m3u8
+北京卫视,http://hls.netlive.ggff.net/hls/bjws.m3u8
+天津卫视,http://hls.netlive.ggff.net/hls/tjws.m3u8
+深圳卫视,http://hls.netlive.ggff.net/hls/szws.m3u8
+黑龙江卫视,http://hls.netlive.ggff.net/hls/hljws.m3u8
+
+
 CCTV1,http://218.206.221.78:90/hls/1/index.m3u8
 CCTV2,http://218.206.221.78:90/hls/2/index.m3u8
 CCTV3,http://218.206.221.78:90/hls/3/index.m3u8
@@ -9169,6 +9204,7 @@ MTV Live,http://192.168.0.146:38080/tw.php?id=mtv
 天映频道,http://192.168.0.146:38080/tw.php?id=typd
 ELTA综合,http://192.168.0.146:38080/tw.php?id=elta
 AXN Taiwan,http://192.168.0.146:38080/tw.php?id=axn
+
 
 
 
