@@ -138,7 +138,7 @@ CETV1,http://218.206.221.78:90/hls/19/index.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-老陈央卫3,#genre#
+老陈央卫3,#genre#,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
 重温经典,http://219.146.65.78:59902/tsfile/live/0150_1.m3u8
 凤凰中文,http://m.061899.xyz/mg/fhzw
 凤凰资讯,http://m.061899.xyz/mg/fhzx
@@ -9436,6 +9436,7 @@ MTV Live,http://192.168.0.146:38080/tw.php?id=mtv
 天映频道,http://192.168.0.146:38080/tw.php?id=typd
 ELTA综合,http://192.168.0.146:38080/tw.php?id=elta
 AXN Taiwan,http://192.168.0.146:38080/tw.php?id=axn
+
 
 
 
