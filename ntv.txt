@@ -1,53 +1,196 @@
 老陈央卫1,#genre#
-CCTV1,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv1
-CCTV2,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv2
-CCTV3,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv3
-CCTV4,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv4
-CCTV5,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv5
-CCTV6,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv6
-CCTV7,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv7
-CCTV8,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv8
-CCTV9,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv9
-CCTV10,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv10
-CCTV11,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv11
-CCTV12,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv12
-CCTV13,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv13
-CCTV14,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv14
-CCTV15,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cctv15
-浙江卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=zjws
-湖南卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=hunanws
-北京卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=bjws
-湖北卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=hbws
-深圳卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=szws
-重庆卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=cqws
-甘肃卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=gsws
-广东卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=gdws
-广西卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=gxws
-贵州卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=gzws
-河北卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=hebeiws
-河南卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=hnws
-黑龙江卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=hljws
-
-江苏卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=jsws
-江西卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=jxws
-辽宁卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=lnws
-内蒙古卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=neimenggu
-宁夏卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=linxws
-青海卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=qhws
-山东卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=sdws
-山西卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=sxws
-陕西卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=shxws
-四川卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=scws
-天津卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=tjws
-新疆卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=xjws
-云南卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=ynws
-兵团卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom1
-东南卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=dnws
-西藏卫视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=xzws
-湖北公共,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom2
-湖北电视台,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom3
-国学频道,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom4
-湖北经视,https://www.qiushui.vip/gj/mk.php?ip_port=223.76.131.67:8014&id=custom5
+CCTV1-综合,http://101.66.199.133:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://101.66.199.133:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://101.66.199.133:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://101.66.199.133:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://101.66.199.133:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://101.66.199.133:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://101.66.199.133:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://101.66.199.133:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://101.66.199.133:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://101.66.199.133:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://101.66.199.133:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://101.66.199.133:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://101.66.199.133:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://101.66.199.133:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://101.66.199.133:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://101.66.199.133:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.199.133:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://101.66.199.133:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.199.133:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.199.133:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://101.66.199.133:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.199.133:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.199.133:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.199.133:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.199.133:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.199.133:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.199.133:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://101.66.199.133:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.199.133:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.199.133:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.199.133:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://101.66.199.133:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://101.66.199.133:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.199.133:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.199.133:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.199.133:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.133:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://101.66.199.133:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://101.66.199.133:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.199.133:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.199.133:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1 综合,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2 财经,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3 综艺,http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-4 中文国际,http://111.221.137.234:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5 体育,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-6 电影,http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7 国防军事,http://111.221.137.234:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-8 电视剧,http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9 纪录,http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10 科教,http://111.221.137.234:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-11 戏曲,http://111.221.137.234:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-12 社会与法,http://111.221.137.234:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-13 新闻,http://111.221.137.234:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-14 少儿,http://111.221.137.234:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-15 音乐,http://111.221.137.234:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+ 体育赛事,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+CGTN,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://111.221.137.234:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳电视剧,http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳财经生活,http://111.221.137.234:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://111.221.137.234:44330/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+广东公共,http://111.221.137.234:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+广东新闻,http://111.221.137.234:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+南方卫视,http://111.221.137.234:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://111.221.137.234:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://111.221.137.234:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://111.221.137.234:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://111.221.137.234:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://111.221.137.234:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+重温经典,http://111.221.137.234:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://111.221.137.234:44330/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://111.221.137.234:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://111.221.137.234:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://111.221.137.234:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://111.221.137.234:44330/tsfile/live/0137_2.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://111.221.137.234:44330/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://111.221.137.234:44330/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://111.221.137.234:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://111.221.137.234:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://111.221.137.234:44330/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+Channel [V],http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰卫视中文台,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+星空卫视,http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1-综合,http://125.125.133.222:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://125.125.133.222:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://125.125.133.222:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://125.125.133.222:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://125.125.133.222:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://125.125.133.222:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://125.125.133.222:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://125.125.133.222:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://125.125.133.222:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://125.125.133.222:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://125.125.133.222:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://125.125.133.222:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://125.125.133.222:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://125.125.133.222:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://125.125.133.222:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://125.125.133.222:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://125.125.133.222:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://125.125.133.222:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://125.125.133.222:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://125.125.133.222:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.125.133.222:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://125.125.133.222:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://125.125.133.222:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://125.125.133.222:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://125.125.133.222:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://125.125.133.222:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://125.125.133.222:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://125.125.133.222:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://125.125.133.222:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://125.125.133.222:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://125.125.133.222:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://125.125.133.222:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://125.125.133.222:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://125.125.133.222:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://125.125.133.222:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://125.125.133.222:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://125.125.133.222:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://182.207.218.131:999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://182.207.218.131:999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://182.207.218.131:999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://182.207.218.131:999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://182.207.218.131:999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://182.207.218.131:999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://182.207.218.131:999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://182.207.218.131:999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://182.207.218.131:999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://182.207.218.131:999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://182.207.218.131:999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://182.207.218.131:999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://182.207.218.131:999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://182.207.218.131:999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://182.207.218.131:999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://182.207.218.131:999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://182.207.218.131:999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://182.207.218.131:999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://182.207.218.131:999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://182.207.218.131:999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://182.207.218.131:999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://182.207.218.131:999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://182.207.218.131:999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://182.207.218.131:999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://182.207.218.131:999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://182.207.218.131:999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://182.207.218.131:999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://182.207.218.131:999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://182.207.218.131:999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://182.207.218.131:999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://182.207.218.131:999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://182.207.218.131:999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://182.207.218.131:999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://182.207.218.131:999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://182.207.218.131:999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://182.207.218.131:999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://182.207.218.131:999/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://182.207.218.131:999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://182.207.218.131:999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://182.207.218.131:999/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://182.207.218.131:999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://182.207.218.131:999/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://182.207.218.131:999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://182.207.218.131:999/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://182.207.218.131:999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://182.207.218.131:999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://182.207.218.131:999/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://182.207.218.131:999/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://182.207.218.131:999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://182.207.218.131:999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://182.207.218.131:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://182.207.218.131:999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://182.207.218.131:999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://182.207.218.131:999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://182.207.218.131:999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://182.207.218.131:999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁移动电视,http://182.207.218.131:999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://182.207.218.131:999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+延边卫视,http://182.207.218.131:999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://182.207.218.131:999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://182.207.218.131:999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://182.207.218.131:999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+动作电影,http://182.207.218.131:999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+高清电影,http://182.207.218.131:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 老陈央卫2,#genre#
 CCTV1-综合,http://101.66.199.133:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://101.66.199.133:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1269,268 +1412,264 @@ IPTV音乐现场,http://oray.com.ogrehq.com:20146/rtp/239.3.1.70:4120
 
 
 广东组播,#genre#
- CCTV-1高清,http://183.7.144.150:4000/rtp/239.77.1.17:5146
- CCTV-2高清,http://183.7.144.150:4000/rtp/239.77.1.158:5146
- CCTV-3高清,http://183.7.144.150:4000/rtp/239.77.0.169:5146
- CCTV-4高清,http://183.7.144.150:4000/rtp/239.77.1.163:5146
-CCTV-5高清,http://183.7.144.150:4000/rtp/239.77.0.170:5146
-CCTV-5+高清,http://183.7.144.150:4000/rtp/239.77.0.87:5146
- CCTV-6高清,http://183.7.144.150:4000/rtp/239.77.0.171:5146
- CCTV-7高清,http://183.7.144.150:4000/rtp/239.77.1.159:5146
-CCTV-8高清,http://183.7.144.150:4000/rtp/239.77.0.172:5146
-CCTV-9高清,http://183.7.144.150:4000/rtp/239.77.1.160:5146
-CCTV-10高清,http://183.7.144.150:4000/rtp/239.77.1.113:5146
-CCTV-11高清,http://183.7.144.150:4000/rtp/239.77.1.108:5146
- CCTV-12高清,http://183.7.144.150:4000/rtp/239.77.1.109:5146
-CCTV-13高清,http://183.7.144.150:4000/rtp/239.77.0.188:5146
-CCTV-14高清,http://183.7.144.150:4000/rtp/239.77.1.161:5146
- CCTV-15高清,http://183.7.144.150:4000/rtp/239.77.1.120:5146
- CCTV-16高清,http://183.7.144.150:4000/rtp/239.77.0.165:5146
-CCTV-17高清,http://183.7.144.150:4000/rtp/239.77.1.121:5146
-兵器科技高清,http://183.7.144.150:4000/rtp/239.253.43.18:5146
- 兵器科技高清,http://183.7.144.150:4000/rtp/239.253.43.9:5146
- 电视指南高清,http://183.7.144.150:4000/rtp/239.253.43.19:5146
- 电视指南高清,http://183.7.144.150:4000/rtp/239.253.43.10:5146
- 风云足球高清,http://183.7.144.150:4000/rtp/239.253.43.20:5146
- 风云足球高清,http://183.7.144.150:4000/rtp/239.253.43.14:5146
- 央视台球高清,http://183.7.144.150:4000/rtp/239.253.43.21:5146
- 央视台球高清,http://183.7.144.150:4000/rtp/239.253.43.11:5146
- 高尔夫网球高清,http://183.7.144.150:4000/rtp/239.253.43.22:5146
- 高尔夫网球高清,http://183.7.144.150:4000/rtp/239.253.43.12:5146
- 女性时尚高清,http://183.7.144.150:4000/rtp/239.253.43.23:5146
- 女性时尚高清,http://183.7.144.150:4000/rtp/239.253.43.8:5146
- 世界地理高清,http://183.7.144.150:4000/rtp/239.253.43.24:5146
- 世界地理高清,http://183.7.144.150:4000/rtp/239.253.43.7:5146
- 怀旧剧场高清,http://183.7.144.150:4000/rtp/239.253.43.25:5146
- 怀旧剧场高清,http://183.7.144.150:4000/rtp/239.253.43.5:5146
- 风云剧场高清,http://183.7.144.150:4000/rtp/239.253.43.26:5146
- 风云剧场高清,http://183.7.144.150:4000/rtp/239.253.43.16:5146
- 央视文化精品高清,http://183.7.144.150:4000/rtp/239.253.43.27:5146
- 央视文化精品高清,http://183.7.144.150:4000/rtp/239.253.43.13:5146
- 第一剧场高清,http://183.7.144.150:4000/rtp/239.253.43.28:5146
- 第一剧场高清,http://183.7.144.150:4000/rtp/239.253.43.15:5146
- 风云音乐高清,http://183.7.144.150:4000/rtp/239.253.43.29:5146
- 风云音乐高清,http://183.7.144.150:4000/rtp/239.253.43.6:5146
- 
-CTV-16奥匹K,http://183.7.144.150:4000/rtp/239.77.0.165:5146
-北京卫视4K,http://183.7.144.150:4000/rtp/239.77.0.2:5146
-北京卫视4K,http://183.7.144.150:4000/rtp/239.77.0.3:5146
-北京卫视4K,http://183.7.144.150:4000/rtp/239.77.0.153:5146
-北京卫视4K,http://183.7.144.150:4000/rtp/239.77.0.233:5146
-北京卫视4K,http://183.7.144.150:4000/rtp/239.77.1.13:5146
-东方卫视4K,http://183.7.144.150:4000/rtp/239.77.0.59:5146
-广东卫视4K,http://183.7.144.150:4000/rtp/239.77.0.27:5146
-广东卫视4K,http://183.7.144.150:4000/rtp/239.77.0.65:5146
-广东卫视4K,http://183.7.144.150:4000/rtp/239.77.0.66:5146
-深圳卫视4K,http://183.7.144.150:4000/rtp/239.77.0.67:5146
-深圳卫视4K,http://183.7.144.150:4000/rtp/239.77.1.14:5146
-湖南卫视4K,http://183.7.144.150:4000/rtp/239.77.0.56:5146
-山东卫视4K,http://183.7.144.150:4000/rtp/239.77.0.61:5146
-四川卫视4K,http://183.7.144.150:4000/rtp/239.77.0.60:5146
-浙江卫视4K,http://183.7.144.150:4000/rtp/239.77.0.58:5146
-江苏卫视4K,http://183.7.144.150:4000/rtp/239.77.0.57:5146
-广东综艺K,http://183.7.144.150:4000/rtp/239.77.0.244:5146
-广东综艺K,http://183.7.144.150:4000/rtp/239.77.0.245:5146
-广东综艺K,http://183.7.144.150:4000/rtp/239.77.1.237:5146
-南国都市4K,http://183.7.144.150:4000/rtp/239.253.43.99:5146
-卫生健康高清,http://183.7.144.150:4000/rtp/239.77.0.212:5146
-广东体育,http://183.7.144.150:4000/rtp/239.77.0.27:5146
- 金鹰卡通高清,http://183.7.144.150:4000/rtp/239.77.0.164:5146
- CETV-1高清,http://183.7.144.150:4000/rtp/239.77.1.222:5146
- 中国教育-1高清,http://183.7.144.150:4000/rtp/239.77.0.200:5146
- CETV-4高清,http://183.7.144.150:4000/rtp/239.77.1.200:5146
- CETV-4高清,http://183.7.144.150:4000/rtp/239.253.43.40:5146
- CETV-4高清,http://183.7.144.150:4000/rtp/239.253.43.114:5146
- CGTN Documentary高清,http://183.7.144.150:4000/rtp/239.253.43.122:5146
-CCTV-1超清,http://183.7.144.150:4000/rtp/239.77.0.129:5146
-湖南卫视高清,http://183.7.144.150:4000/rtp/239.77.1.5:5146
-湖南卫视高清,http://183.7.144.150:4000/rtp/239.77.0.88:5146
-浙江卫视高清,http://183.7.144.150:4000/rtp/239.77.1.33:5146
-浙江卫视高清,http://183.7.144.150:4000/rtp/239.77.0.89:5146
- 江苏卫视高清,http://183.7.144.150:4000/rtp/239.77.1.18:5146
-江苏卫视高清,http://183.7.144.150:4000/rtp/239.77.0.90:5146
- 东方卫视高清,http://183.7.144.150:4000/rtp/239.77.1.218:5146
- 东方卫视高清,http://183.7.144.150:4000/rtp/239.77.0.98:5146
- 安徽卫视高清,http://183.7.144.150:4000/rtp/239.77.1.92:5146
-安徽卫视高清,http://183.7.144.150:4000/rtp/239.77.0.183:5146
- 北京卫视高清,http://183.7.144.150:4000/rtp/239.77.1.4:5146
- 北京卫视高清,http://183.7.144.150:4000/rtp/239.77.1.151:5146
- 北京卫视高清,http://183.7.144.150:4000/rtp/239.77.0.91:5146
- 天津卫视高清,http://183.7.144.150:4000/rtp/239.77.1.141:5146
- 天津卫视高清,http://183.7.144.150:4000/rtp/239.77.1.182:5146
- 天津卫视高清,http://183.7.144.150:4000/rtp/239.77.0.97:5146
- 山东卫视高清,http://183.7.144.150:4000/rtp/239.77.1.142:5146
-山东卫视高清,http://183.7.144.150:4000/rtp/239.77.0.94:5146
- 江西卫视高清,http://183.7.144.150:4000/rtp/239.77.1.219:5146
- 江西卫视高清,http://183.7.144.150:4000/rtp/239.77.0.149:5146
- 湖北卫视高清,http://183.7.144.150:4000/rtp/239.77.1.93:5146
- 湖北卫视高清,http://183.7.144.150:4000/rtp/239.77.1.174:5146
- 湖北卫视高清,http://183.7.144.150:4000/rtp/239.77.0.95:5146
- 辽宁卫视高清,http://183.7.144.150:4000/rtp/239.77.1.103:5146
- 辽宁卫视高清,http://183.7.144.150:4000/rtp/239.77.0.123:5146
- 黑龙江卫视高清,http://183.7.144.150:4000/rtp/239.77.1.6:5146
- 黑龙江卫视高清,http://183.7.144.150:4000/rtp/239.77.1.179:5146
- 黑龙江卫视高清,http://183.7.144.150:4000/rtp/239.77.0.93:5146
- 贵州卫视高清,http://183.7.144.150:4000/rtp/239.77.1.221:5146
- 贵州卫视高清,http://183.7.144.150:4000/rtp/239.77.0.230:5146
- 四川卫视高清,http://183.7.144.150:4000/rtp/239.77.1.215:5146
- 四川卫视高清,http://183.7.144.150:4000/rtp/239.77.0.159:5146
- 河南卫视高清,http://183.7.144.150:4000/rtp/239.77.1.229:5146
- 河南卫视高清,http://183.7.144.150:4000/rtp/239.77.0.17:5146
- 云南卫视高清,http://183.7.144.150:4000/rtp/239.253.43.37:5146
- 云南卫视高清,http://183.7.144.150:4000/rtp/239.253.43.100:5146
- 重庆卫视高清,http://183.7.144.150:4000/rtp/239.77.1.162:5146
- 重庆卫视高清,http://183.7.144.150:4000/rtp/239.77.0.182:5146
- 河北卫视高清,http://183.7.144.150:4000/rtp/239.77.1.214:5146
- 河北卫视高清,http://183.7.144.150:4000/rtp/239.77.0.148:5146
- 东南卫视高清,http://183.7.144.150:4000/rtp/239.77.1.104:5146
-东南卫视高清,http://183.7.144.150:4000/rtp/239.77.0.146:5146
- 广西卫视高清,http://183.7.144.150:4000/rtp/239.253.43.36:5146
- 广西卫视高清,http://183.7.144.150:4000/rtp/239.77.0.139:5146
- 吉林卫视高清,http://183.7.144.150:4000/rtp/239.77.1.111:5146
- 吉林卫视高清,http://183.7.144.150:4000/rtp/239.77.0.150:5146
- 青海卫视高清,http://183.7.144.150:4000/rtp/239.253.43.125:5146
- 海南卫视高清,http://183.7.144.150:4000/rtp/239.253.43.35:5146
- 海南卫视高清,http://183.7.144.150:4000/rtp/239.253.43.101:5146
- 甘肃卫视高清,http://183.7.144.150:4000/rtp/239.77.0.189:5146
- 三沙卫视高清,http://183.7.144.150:4000/rtp/239.253.43.113:5146
- 湖南卫视超清,http://183.7.144.150:4000/rtp/239.77.0.127:5146
-天津卫视超清,http://183.7.144.150:4000/rtp/239.77.0.131:5146
-湖北卫视超清,http://183.7.144.150:4000/rtp/239.77.0.128:5146
-黑龙江卫视超清,http://183.7.144.150:4000/rtp/239.77.0.124:5146
-广东卫视高清,http://183.7.144.150:4000/rtp/239.77.1.19:5146
-广东卫视高清,http://183.7.144.150:4000/rtp/239.77.1.152:5146
- 广东卫视高清,http://183.7.144.150:4000/rtp/239.77.0.84:5146
- 广东珠江高清,http://183.7.144.150:4000/rtp/239.77.0.1:5146
- 广东新闻高清,http://183.7.144.150:4000/rtp/239.77.0.173:5146
- 广东民生高清,http://183.7.144.150:4000/rtp/239.77.0.225:5146
- 广东体育高清,http://183.7.144.150:4000/rtp/239.77.0.112:5146
- 经济科教高清,http://183.7.144.150:4000/rtp/239.77.0.85:5146
- 大湾区卫视高清,http://183.7.144.150:4000/rtp/239.77.0.215:5146
- 广东影视高清,http://183.7.144.150:4000/rtp/239.77.0.217:5146
- 广东少儿高清,http://183.7.144.150:4000/rtp/239.77.0.250:5146
- 嘉佳卡通高清,http://183.7.144.150:4000/rtp/239.77.0.179:5146
-岭南戏曲高清,http://183.7.144.150:4000/rtp/239.77.0.122:5146
- 现代教育高清,http://183.7.144.150:4000/rtp/239.77.0.213:5146
- 广州综合高清,http://183.7.144.150:4000/rtp/239.253.43.71:5146
- 广州新闻高清,http://183.7.144.150:4000/rtp/239.253.43.72:5146
- 广州影视高清,http://183.7.144.150:4000/rtp/239.253.43.73:5146
- 广州法治高清,http://183.7.144.150:4000/rtp/239.253.43.74:5146
- 深圳卫视高清,http://183.7.144.150:4000/rtp/239.77.1.3:5146
- 深圳卫视高清,http://183.7.144.150:4000/rtp/239.77.1.148:5146
- 深圳卫视高清,http://183.7.144.150:4000/rtp/239.77.0.92:5146
- 深圳都市频道高清,http://183.7.144.150:4000/rtp/239.77.1.176:5146
- 深圳都市频道高清,http://183.7.144.150:4000/rtp/239.77.1.124:5146
- 深圳电视剧频道高清,http://183.7.144.150:4000/rtp/239.77.1.177:5146
- 深圳电视剧频道高清,http://183.7.144.150:4000/rtp/239.77.1.125:5146
- 深圳财经生活高清,http://183.7.144.150:4000/rtp/239.77.1.242:5146
- 深圳体育健康高清,http://183.7.144.150:4000/rtp/239.77.1.128:5146
- 深圳体育健康高清,http://183.7.144.150:4000/rtp/239.77.1.140:5146
- 深圳少儿频道高清,http://183.7.144.150:4000/rtp/239.77.1.244:5146
- 深圳宝安频道高清,http://183.7.144.150:4000/rtp/239.77.1.67:5146
- 深圳龙岗频道高清,http://183.7.144.150:4000/rtp/239.77.1.223:5146
- 深圳众创TV高清,http://183.7.144.150:4000/rtp/239.77.1.247:5146
- 深圳宜和购物高清,http://183.7.144.150:4000/rtp/239.77.1.87:5146
- 韶关新闻综合高清,http://183.7.144.150:4000/rtp/239.77.0.117:5146
- 湛江新闻综合高清,http://183.7.144.150:4000/rtp/239.77.0.141:5146
- 湛江公共高清,http://183.7.144.150:4000/rtp/239.77.0.140:5146
- 揭阳综合高清,http://183.7.144.150:4000/rtp/239.77.0.229:5146
- 揭阳生活高清,http://183.7.144.150:4000/rtp/239.77.0.251:5146
- 汕尾新闻综合高清,http://183.7.144.150:4000/rtp/239.77.0.25:5146
- 汕尾文化生活高清,http://183.7.144.150:4000/rtp/239.77.0.187:5146
- 江门综合高清,http://183.7.144.150:4000/rtp/239.77.0.201:5146
- 江门侨乡生活高清,http://183.7.144.150:4000/rtp/239.77.0.202:5146
- HZTV-1高清,http://183.7.144.150:4000/rtp/239.77.1.232:5146
- HZTV-2高清,http://183.7.144.150:4000/rtp/239.77.1.233:5146
- 珠海-1高清,http://183.7.144.150:4000/rtp/239.77.0.155:5146
- 肇庆综合高清,http://183.7.144.150:4000/rtp/239.253.43.1:5146
- 肇庆生活服务高清,http://183.7.144.150:4000/rtp/239.253.43.2:5146
- 河源综合高清,http://183.7.144.150:4000/rtp/239.253.43.213:5146
- 河源公共高清,http://183.7.144.150:4000/rtp/239.253.43.214:5146
- 清远新闻综合高清,http://183.7.144.150:4000/rtp/239.253.43.33:5146
- 清远文旅生活高清,http://183.7.144.150:4000/rtp/239.253.43.34:5146
- 云浮综合高清,http://183.7.144.150:4000/rtp/239.77.0.253:5146
- 云浮文旅高清,http://183.7.144.150:4000/rtp/239.77.0.254:5146
- 茂名综合高清,http://183.7.144.150:4000/rtp/239.77.0.206:5146
- 茂名公共高清,http://183.7.144.150:4000/rtp/239.77.0.207:5146
- 汕头综合高清,http://183.7.144.150:4000/rtp/239.77.1.130:5146
- 汕头综合高清,http://183.7.144.150:4000/rtp/239.253.43.45:5146
- 汕头经济生活高清,http://183.7.144.150:4000/rtp/239.77.1.131:5146
- 汕头经济生活高清,http://183.7.144.150:4000/rtp/239.253.43.46:5146
- 汕头文旅体育高清,http://183.7.144.150:4000/rtp/239.77.1.132:5146
- 汕头文旅体育高清,http://183.7.144.150:4000/rtp/239.253.43.47:5146
- 佛山公共高清,http://183.7.144.150:4000/rtp/239.253.43.53:5146
- 佛山南海高清,http://183.7.144.150:4000/rtp/239.253.43.54:5146
- 佛山顺德高清,http://183.7.144.150:4000/rtp/239.253.43.55:5146
- 佛山影视高清,http://183.7.144.150:4000/rtp/239.253.43.56:5146
- 佛山综合高清,http://183.7.144.150:4000/rtp/239.253.43.57:5146
- 东莞新闻综合高清,http://183.7.144.150:4000/rtp/239.253.43.104:5146
- 东莞生活资讯高清,http://183.7.144.150:4000/rtp/239.253.43.105:5146
- 中山综合高清,http://183.7.144.150:4000/rtp/239.253.43.62:5146
- 香山文化高清,http://183.7.144.150:4000/rtp/239.253.43.63:5146
- 潮州综合高清,http://183.7.144.150:4000/rtp/239.253.43.70:5146
- 潮州民生高清,http://183.7.144.150:4000/rtp/239.253.43.75:5146
- 梅州综合高清,http://183.7.144.150:4000/rtp/239.253.43.123:5146
- 客家生活高清,http://183.7.144.150:4000/rtp/239.253.43.124:5146
-广东卫视超清,http://183.7.144.150:4000/rtp/239.77.0.166:5146
- 广东珠江超清,http://183.7.144.150:4000/rtp/239.77.0.114:5146
- 广东体育超清,http://183.7.144.150:4000/rtp/239.77.0.168:5146
- 经济科教超清,http://183.7.144.150:4000/rtp/239.77.0.167:5146
- 深圳卫视超清,http://183.7.144.150:4000/rtp/239.77.0.130:5146
-早期教育高清,http://183.7.144.150:4000/rtp/239.77.0.180:5146
- 中国交通,http://183.7.144.150:4000/rtp/239.77.1.249:5146
- 茶,http://183.7.144.150:4000/rtp/239.77.0.15:5146
- 快乐垂钓,http://183.7.144.150:4000/rtp/239.77.0.145:5146
- 金鹰纪实高清,http://183.7.144.150:4000/rtp/239.77.1.217:5146
- 金鹰纪实高清,http://183.7.144.150:4000/rtp/239.77.0.160:5146
- 上海纪实高清,http://183.7.144.150:4000/rtp/239.77.1.216:5146
- 上海纪实高清,http://183.7.144.150:4000/rtp/239.77.0.147:5146
- 求索纪录高清,http://183.7.144.150:4000/rtp/239.77.0.21:5146
- 天元围棋,http://183.7.144.150:4000/rtp/239.253.43.98:5146
- 睛彩青少高清,http://183.7.144.150:4000/rtp/239.77.1.22:5146
- 睛彩竞技高清,http://183.7.144.150:4000/rtp/239.77.1.20:5146
- 睛彩篮球高清,http://183.7.144.150:4000/rtp/239.77.1.21:5146
- 睛彩广场舞高清,http://183.7.144.150:4000/rtp/239.77.1.23:5146
- IPTV1高清,http://183.7.144.150:4000/rtp/239.77.1.7:5146
- IPTV1高清,http://183.7.144.150:4000/rtp/239.77.1.203:5146
- IPTV2高清,http://183.7.144.150:4000/rtp/239.77.1.8:5146
- IPTV2高清,http://183.7.144.150:4000/rtp/239.77.1.201:5146
- IPTV3高清,http://183.7.144.150:4000/rtp/239.77.1.9:5146
- IPTV4高清,http://183.7.144.150:4000/rtp/239.77.1.10:5146
- 爱体育高清,http://183.7.144.150:4000/rtp/239.77.0.176:5146
- 爱体育高清,http://183.7.144.150:4000/rtp/239.77.1.116:5146
- IPTV少儿动画,http://183.7.144.150:4000/rtp/239.77.1.91:5146
-IPTV热播剧场,http://183.7.144.150:4000/rtp/239.77.1.90:5146
-IPTV经典电影,http://183.7.144.150:4000/rtp/239.77.1.89:5146
-IPTV魅力时尚,http://183.7.144.150:4000/rtp/239.77.1.88:5146
-华数少儿动画,http://183.7.144.150:4000/rtp/239.77.0.109:5146
-华数热播剧场,http://183.7.144.150:4000/rtp/239.77.0.106:5146
-华数爱大剧1,http://183.7.144.150:4000/rtp/239.77.0.105:5146
-华数爱大剧2,http://183.7.144.150:4000/rtp/239.77.0.110:5146
-华数爱电影,http://183.7.144.150:4000/rtp/239.77.0.103:5146
-华数爱电影,http://183.7.144.150:4000/rtp/239.77.1.138:5146
-华数电视剧,http://183.7.144.150:4000/rtp/239.77.1.82:5146
-华数谍战剧场,http://183.7.144.150:4000/rtp/239.77.1.83:5146
-爱体育,http://183.7.144.150:4000/rtp/239.77.1.116:5146
-爱体育,http://183.7.144.150:4000/rtp/239.77.0.108:5146
-求索记录,http://183.7.144.150:4000/rtp/239.77.0.21:5146
-财富天下,http://183.7.144.150:4000/rtp/239.77.0.113:5146
-IPTV谍战剧场,http://183.7.144.150:4000/rtp/239.77.0.99:5146
-IPTV相声小品,http://183.7.144.150:4000/rtp/239.77.1.84:5146
-IPTV野外,http://183.7.144.150:4000/rtp/239.77.1.85:5146
-IPTV野外,http://183.7.144.150:4000/rtp/239.77.0.101:5146
-IPTV法治,http://183.7.144.150:4000/rtp/239.77.1.86:5146
-经典电影,http://183.7.144.150:4000/rtp/239.77.0.104:5146
-IPTV宣传,http://183.7.144.150:4000/rtp/239.77.1.183:5146
-IPTV宣传,http://183.7.144.150:4000/rtp/239.77.1.184:5146
-百事通高清,http://183.7.144.150:4000/rtp/239.253.43.115:5146
- 百事通高清,http://183.7.144.150:4000/rtp/239.253.43.116:5146
- 百事通高清,http://183.7.144.150:4000/rtp/239.253.43.117:5146
- 百事通高清,http://183.7.144.150:4000/rtp/239.253.43.118:5146
- 百事通高清,http://183.7.144.150:4000/rtp/239.253.43.119:5146
-
-
-
+ CCTV-1高清,http://113.102.83.21:4022/rtp/239.77.1.17:5146
+ CCTV-2高清,http://113.102.83.21:4022/rtp/239.77.1.158:5146
+ CCTV-3高清,http://113.102.83.21:4022/rtp/239.77.0.169:5146
+ CCTV-4高清,http://113.102.83.21:4022/rtp/239.77.1.163:5146
+CCTV-5高清,http://113.102.83.21:4022/rtp/239.77.0.170:5146
+CCTV-5+高清,http://113.102.83.21:4022/rtp/239.77.0.87:5146
+ CCTV-6高清,http://113.102.83.21:4022/rtp/239.77.0.171:5146
+ CCTV-7高清,http://113.102.83.21:4022/rtp/239.77.1.159:5146
+CCTV-8高清,http://113.102.83.21:4022/rtp/239.77.0.172:5146
+CCTV-9高清,http://113.102.83.21:4022/rtp/239.77.1.160:5146
+CCTV-10高清,http://113.102.83.21:4022/rtp/239.77.1.113:5146
+CCTV-11高清,http://113.102.83.21:4022/rtp/239.77.1.108:5146
+ CCTV-12高清,http://113.102.83.21:4022/rtp/239.77.1.109:5146
+CCTV-13高清,http://113.102.83.21:4022/rtp/239.77.0.188:5146
+CCTV-14高清,http://113.102.83.21:4022/rtp/239.77.1.161:5146
+ CCTV-15高清,http://113.102.83.21:4022/rtp/239.77.1.120:5146
+ CCTV-16高清,http://113.102.83.21:4022/rtp/239.77.0.165:5146
+CCTV-17高清,http://113.102.83.21:4022/rtp/239.77.1.121:5146
+兵器科技高清,http://113.102.83.21:4022/rtp/239.253.43.18:5146
+ 兵器科技高清,http://113.102.83.21:4022/rtp/239.253.43.9:5146
+ 电视指南高清,http://113.102.83.21:4022/rtp/239.253.43.19:5146
+ 电视指南高清,http://113.102.83.21:4022/rtp/239.253.43.10:5146
+ 风云足球高清,http://113.102.83.21:4022/rtp/239.253.43.20:5146
+ 风云足球高清,http://113.102.83.21:4022/rtp/239.253.43.14:5146
+ 央视台球高清,http://113.102.83.21:4022/rtp/239.253.43.21:5146
+ 央视台球高清,http://113.102.83.21:4022/rtp/239.253.43.11:5146
+ 高尔夫网球高清,http://113.102.83.21:4022/rtp/239.253.43.22:5146
+ 高尔夫网球高清,http://113.102.83.21:4022/rtp/239.253.43.12:5146
+ 女性时尚高清,http://113.102.83.21:4022/rtp/239.253.43.23:5146
+ 女性时尚高清,http://113.102.83.21:4022/rtp/239.253.43.8:5146
+ 世界地理高清,http://113.102.83.21:4022/rtp/239.253.43.24:5146
+ 世界地理高清,http://113.102.83.21:4022/rtp/239.253.43.7:5146
+ 怀旧剧场高清,http://113.102.83.21:4022/rtp/239.253.43.25:5146
+ 怀旧剧场高清,http://113.102.83.21:4022/rtp/239.253.43.5:5146
+ 风云剧场高清,http://113.102.83.21:4022/rtp/239.253.43.26:5146
+ 风云剧场高清,http://113.102.83.21:4022/rtp/239.253.43.16:5146
+ 央视文化精品高清,http://113.102.83.21:4022/rtp/239.253.43.27:5146
+ 央视文化精品高清,http://113.102.83.21:4022/rtp/239.253.43.13:5146
+ 第一剧场高清,http://113.102.83.21:4022/rtp/239.253.43.28:5146
+ 第一剧场高清,http://113.102.83.21:4022/rtp/239.253.43.15:5146
+ 风云音乐高清,http://113.102.83.21:4022/rtp/239.253.43.29:5146
+ 风云音乐高清,http://113.102.83.21:4022/rtp/239.253.43.6:5146
+ CTV-16奥匹K,http://113.102.83.21:4022/rtp/239.77.0.165:5146
+北京卫视4K,http://113.102.83.21:4022/rtp/239.77.0.2:5146
+北京卫视4K,http://113.102.83.21:4022/rtp/239.77.0.3:5146
+北京卫视4K,http://113.102.83.21:4022/rtp/239.77.0.153:5146
+北京卫视4K,http://113.102.83.21:4022/rtp/239.77.0.233:5146
+北京卫视4K,http://113.102.83.21:4022/rtp/239.77.1.13:5146
+东方卫视4K,http://113.102.83.21:4022/rtp/239.77.0.59:5146
+广东卫视4K,http://113.102.83.21:4022/rtp/239.77.0.27:5146
+广东卫视4K,http://113.102.83.21:4022/rtp/239.77.0.65:5146
+广东卫视4K,http://113.102.83.21:4022/rtp/239.77.0.66:5146
+深圳卫视4K,http://113.102.83.21:4022/rtp/239.77.0.67:5146
+深圳卫视4K,http://113.102.83.21:4022/rtp/239.77.1.14:5146
+湖南卫视4K,http://113.102.83.21:4022/rtp/239.77.0.56:5146
+山东卫视4K,http://113.102.83.21:4022/rtp/239.77.0.61:5146
+四川卫视4K,http://113.102.83.21:4022/rtp/239.77.0.60:5146
+浙江卫视4K,http://113.102.83.21:4022/rtp/239.77.0.58:5146
+江苏卫视4K,http://113.102.83.21:4022/rtp/239.77.0.57:5146
+广东综艺K,http://113.102.83.21:4022/rtp/239.77.0.244:5146
+广东综艺K,http://113.102.83.21:4022/rtp/239.77.0.245:5146
+广东综艺K,http://113.102.83.21:4022/rtp/239.77.1.237:5146
+南国都市4K,http://113.102.83.21:4022/rtp/239.253.43.99:5146
+卫生健康高清,http://113.102.83.21:4022/rtp/239.77.0.212:5146
+广东体育,http://113.102.83.21:4022/rtp/239.77.0.27:5146
+ 金鹰卡通高清,http://113.102.83.21:4022/rtp/239.77.0.164:5146
+ CETV-1高清,http://113.102.83.21:4022/rtp/239.77.1.222:5146
+ 中国教育-1高清,http://113.102.83.21:4022/rtp/239.77.0.200:5146
+ CETV-4高清,http://113.102.83.21:4022/rtp/239.77.1.200:5146
+ CETV-4高清,http://113.102.83.21:4022/rtp/239.253.43.40:5146
+ CETV-4高清,http://113.102.83.21:4022/rtp/239.253.43.114:5146
+ CGTN Documentary高清,http://113.102.83.21:4022/rtp/239.253.43.122:5146
+CCTV-1超清,http://113.102.83.21:4022/rtp/239.77.0.129:5146
+湖南卫视高清,http://113.102.83.21:4022/rtp/239.77.1.5:5146
+湖南卫视高清,http://113.102.83.21:4022/rtp/239.77.0.88:5146
+浙江卫视高清,http://113.102.83.21:4022/rtp/239.77.1.33:5146
+浙江卫视高清,http://113.102.83.21:4022/rtp/239.77.0.89:5146
+ 江苏卫视高清,http://113.102.83.21:4022/rtp/239.77.1.18:5146
+江苏卫视高清,http://113.102.83.21:4022/rtp/239.77.0.90:5146
+ 东方卫视高清,http://113.102.83.21:4022/rtp/239.77.1.218:5146
+ 东方卫视高清,http://113.102.83.21:4022/rtp/239.77.0.98:5146
+ 安徽卫视高清,http://113.102.83.21:4022/rtp/239.77.1.92:5146
+安徽卫视高清,http://113.102.83.21:4022/rtp/239.77.0.183:5146
+ 北京卫视高清,http://113.102.83.21:4022/rtp/239.77.1.4:5146
+ 北京卫视高清,http://113.102.83.21:4022/rtp/239.77.1.151:5146
+ 北京卫视高清,http://113.102.83.21:4022/rtp/239.77.0.91:5146
+ 天津卫视高清,http://113.102.83.21:4022/rtp/239.77.1.141:5146
+ 天津卫视高清,http://113.102.83.21:4022/rtp/239.77.1.182:5146
+ 天津卫视高清,http://113.102.83.21:4022/rtp/239.77.0.97:5146
+ 山东卫视高清,http://113.102.83.21:4022/rtp/239.77.1.142:5146
+山东卫视高清,http://113.102.83.21:4022/rtp/239.77.0.94:5146
+ 江西卫视高清,http://113.102.83.21:4022/rtp/239.77.1.219:5146
+ 江西卫视高清,http://113.102.83.21:4022/rtp/239.77.0.149:5146
+ 湖北卫视高清,http://113.102.83.21:4022/rtp/239.77.1.93:5146
+ 湖北卫视高清,http://113.102.83.21:4022/rtp/239.77.1.174:5146
+ 湖北卫视高清,http://113.102.83.21:4022/rtp/239.77.0.95:5146
+ 辽宁卫视高清,http://113.102.83.21:4022/rtp/239.77.1.103:5146
+ 辽宁卫视高清,http://113.102.83.21:4022/rtp/239.77.0.123:5146
+ 黑龙江卫视高清,http://113.102.83.21:4022/rtp/239.77.1.6:5146
+ 黑龙江卫视高清,http://113.102.83.21:4022/rtp/239.77.1.179:5146
+ 黑龙江卫视高清,http://113.102.83.21:4022/rtp/239.77.0.93:5146
+ 贵州卫视高清,http://113.102.83.21:4022/rtp/239.77.1.221:5146
+ 贵州卫视高清,http://113.102.83.21:4022/rtp/239.77.0.230:5146
+ 四川卫视高清,http://113.102.83.21:4022/rtp/239.77.1.215:5146
+ 四川卫视高清,http://113.102.83.21:4022/rtp/239.77.0.159:5146
+ 河南卫视高清,http://113.102.83.21:4022/rtp/239.77.1.229:5146
+ 河南卫视高清,http://113.102.83.21:4022/rtp/239.77.0.17:5146
+ 云南卫视高清,http://113.102.83.21:4022/rtp/239.253.43.37:5146
+ 云南卫视高清,http://113.102.83.21:4022/rtp/239.253.43.100:5146
+ 重庆卫视高清,http://113.102.83.21:4022/rtp/239.77.1.162:5146
+ 重庆卫视高清,http://113.102.83.21:4022/rtp/239.77.0.182:5146
+ 河北卫视高清,http://113.102.83.21:4022/rtp/239.77.1.214:5146
+ 河北卫视高清,http://113.102.83.21:4022/rtp/239.77.0.148:5146
+ 东南卫视高清,http://113.102.83.21:4022/rtp/239.77.1.104:5146
+东南卫视高清,http://113.102.83.21:4022/rtp/239.77.0.146:5146
+ 广西卫视高清,http://113.102.83.21:4022/rtp/239.253.43.36:5146
+ 广西卫视高清,http://113.102.83.21:4022/rtp/239.77.0.139:5146
+ 吉林卫视高清,http://113.102.83.21:4022/rtp/239.77.1.111:5146
+ 吉林卫视高清,http://113.102.83.21:4022/rtp/239.77.0.150:5146
+ 青海卫视高清,http://113.102.83.21:4022/rtp/239.253.43.125:5146
+ 海南卫视高清,http://113.102.83.21:4022/rtp/239.253.43.35:5146
+ 海南卫视高清,http://113.102.83.21:4022/rtp/239.253.43.101:5146
+ 甘肃卫视高清,http://113.102.83.21:4022/rtp/239.77.0.189:5146
+ 三沙卫视高清,http://113.102.83.21:4022/rtp/239.253.43.113:5146
+ 湖南卫视超清,http://113.102.83.21:4022/rtp/239.77.0.127:5146
+天津卫视超清,http://113.102.83.21:4022/rtp/239.77.0.131:5146
+湖北卫视超清,http://113.102.83.21:4022/rtp/239.77.0.128:5146
+黑龙江卫视超清,http://113.102.83.21:4022/rtp/239.77.0.124:5146
+广东卫视高清,http://113.102.83.21:4022/rtp/239.77.1.19:5146
+广东卫视高清,http://113.102.83.21:4022/rtp/239.77.1.152:5146
+ 广东卫视高清,http://113.102.83.21:4022/rtp/239.77.0.84:5146
+ 广东珠江高清,http://113.102.83.21:4022/rtp/239.77.0.1:5146
+ 广东新闻高清,http://113.102.83.21:4022/rtp/239.77.0.173:5146
+ 广东民生高清,http://113.102.83.21:4022/rtp/239.77.0.225:5146
+ 广东体育高清,http://113.102.83.21:4022/rtp/239.77.0.112:5146
+ 经济科教高清,http://113.102.83.21:4022/rtp/239.77.0.85:5146
+ 大湾区卫视高清,http://113.102.83.21:4022/rtp/239.77.0.215:5146
+ 广东影视高清,http://113.102.83.21:4022/rtp/239.77.0.217:5146
+ 广东少儿高清,http://113.102.83.21:4022/rtp/239.77.0.250:5146
+ 嘉佳卡通高清,http://113.102.83.21:4022/rtp/239.77.0.179:5146
+岭南戏曲高清,http://113.102.83.21:4022/rtp/239.77.0.122:5146
+ 现代教育高清,http://113.102.83.21:4022/rtp/239.77.0.213:5146
+ 广州综合高清,http://113.102.83.21:4022/rtp/239.253.43.71:5146
+ 广州新闻高清,http://113.102.83.21:4022/rtp/239.253.43.72:5146
+ 广州影视高清,http://113.102.83.21:4022/rtp/239.253.43.73:5146
+ 广州法治高清,http://113.102.83.21:4022/rtp/239.253.43.74:5146
+ 深圳卫视高清,http://113.102.83.21:4022/rtp/239.77.1.3:5146
+ 深圳卫视高清,http://113.102.83.21:4022/rtp/239.77.1.148:5146
+ 深圳卫视高清,http://113.102.83.21:4022/rtp/239.77.0.92:5146
+ 深圳都市频道高清,http://113.102.83.21:4022/rtp/239.77.1.176:5146
+ 深圳都市频道高清,http://113.102.83.21:4022/rtp/239.77.1.124:5146
+ 深圳电视剧频道高清,http://113.102.83.21:4022/rtp/239.77.1.177:5146
+ 深圳电视剧频道高清,http://113.102.83.21:4022/rtp/239.77.1.125:5146
+ 深圳财经生活高清,http://113.102.83.21:4022/rtp/239.77.1.242:5146
+ 深圳体育健康高清,http://113.102.83.21:4022/rtp/239.77.1.128:5146
+ 深圳体育健康高清,http://113.102.83.21:4022/rtp/239.77.1.140:5146
+ 深圳少儿频道高清,http://113.102.83.21:4022/rtp/239.77.1.244:5146
+ 深圳宝安频道高清,http://113.102.83.21:4022/rtp/239.77.1.67:5146
+ 深圳龙岗频道高清,http://113.102.83.21:4022/rtp/239.77.1.223:5146
+ 深圳众创TV高清,http://113.102.83.21:4022/rtp/239.77.1.247:5146
+ 深圳宜和购物高清,http://113.102.83.21:4022/rtp/239.77.1.87:5146
+ 韶关新闻综合高清,http://113.102.83.21:4022/rtp/239.77.0.117:5146
+ 湛江新闻综合高清,http://113.102.83.21:4022/rtp/239.77.0.141:5146
+ 湛江公共高清,http://113.102.83.21:4022/rtp/239.77.0.140:5146
+ 揭阳综合高清,http://113.102.83.21:4022/rtp/239.77.0.229:5146
+ 揭阳生活高清,http://113.102.83.21:4022/rtp/239.77.0.251:5146
+ 汕尾新闻综合高清,http://113.102.83.21:4022/rtp/239.77.0.25:5146
+ 汕尾文化生活高清,http://113.102.83.21:4022/rtp/239.77.0.187:5146
+ 江门综合高清,http://113.102.83.21:4022/rtp/239.77.0.201:5146
+ 江门侨乡生活高清,http://113.102.83.21:4022/rtp/239.77.0.202:5146
+ HZTV-1高清,http://113.102.83.21:4022/rtp/239.77.1.232:5146
+ HZTV-2高清,http://113.102.83.21:4022/rtp/239.77.1.233:5146
+ 珠海-1高清,http://113.102.83.21:4022/rtp/239.77.0.155:5146
+ 肇庆综合高清,http://113.102.83.21:4022/rtp/239.253.43.1:5146
+ 肇庆生活服务高清,http://113.102.83.21:4022/rtp/239.253.43.2:5146
+ 河源综合高清,http://113.102.83.21:4022/rtp/239.253.43.213:5146
+ 河源公共高清,http://113.102.83.21:4022/rtp/239.253.43.214:5146
+ 清远新闻综合高清,http://113.102.83.21:4022/rtp/239.253.43.33:5146
+ 清远文旅生活高清,http://113.102.83.21:4022/rtp/239.253.43.34:5146
+ 云浮综合高清,http://113.102.83.21:4022/rtp/239.77.0.253:5146
+ 云浮文旅高清,http://113.102.83.21:4022/rtp/239.77.0.254:5146
+ 茂名综合高清,http://113.102.83.21:4022/rtp/239.77.0.206:5146
+ 茂名公共高清,http://113.102.83.21:4022/rtp/239.77.0.207:5146
+ 汕头综合高清,http://113.102.83.21:4022/rtp/239.77.1.130:5146
+ 汕头综合高清,http://113.102.83.21:4022/rtp/239.253.43.45:5146
+ 汕头经济生活高清,http://113.102.83.21:4022/rtp/239.77.1.131:5146
+ 汕头经济生活高清,http://113.102.83.21:4022/rtp/239.253.43.46:5146
+ 汕头文旅体育高清,http://113.102.83.21:4022/rtp/239.77.1.132:5146
+ 汕头文旅体育高清,http://113.102.83.21:4022/rtp/239.253.43.47:5146
+ 佛山公共高清,http://113.102.83.21:4022/rtp/239.253.43.53:5146
+ 佛山南海高清,http://113.102.83.21:4022/rtp/239.253.43.54:5146
+ 佛山顺德高清,http://113.102.83.21:4022/rtp/239.253.43.55:5146
+ 佛山影视高清,http://113.102.83.21:4022/rtp/239.253.43.56:5146
+ 佛山综合高清,http://113.102.83.21:4022/rtp/239.253.43.57:5146
+ 东莞新闻综合高清,http://113.102.83.21:4022/rtp/239.253.43.104:5146
+ 东莞生活资讯高清,http://113.102.83.21:4022/rtp/239.253.43.105:5146
+ 中山综合高清,http://113.102.83.21:4022/rtp/239.253.43.62:5146
+ 香山文化高清,http://113.102.83.21:4022/rtp/239.253.43.63:5146
+ 潮州综合高清,http://113.102.83.21:4022/rtp/239.253.43.70:5146
+ 潮州民生高清,http://113.102.83.21:4022/rtp/239.253.43.75:5146
+ 梅州综合高清,http://113.102.83.21:4022/rtp/239.253.43.123:5146
+ 客家生活高清,http://113.102.83.21:4022/rtp/239.253.43.124:5146
+广东卫视超清,http://113.102.83.21:4022/rtp/239.77.0.166:5146
+ 广东珠江超清,http://113.102.83.21:4022/rtp/239.77.0.114:5146
+ 广东体育超清,http://113.102.83.21:4022/rtp/239.77.0.168:5146
+ 经济科教超清,http://113.102.83.21:4022/rtp/239.77.0.167:5146
+ 深圳卫视超清,http://113.102.83.21:4022/rtp/239.77.0.130:5146
+早期教育高清,http://113.102.83.21:4022/rtp/239.77.0.180:5146
+ 中国交通,http://113.102.83.21:4022/rtp/239.77.1.249:5146
+ 茶,http://113.102.83.21:4022/rtp/239.77.0.15:5146
+ 快乐垂钓,http://113.102.83.21:4022/rtp/239.77.0.145:5146
+ 金鹰纪实高清,http://113.102.83.21:4022/rtp/239.77.1.217:5146
+ 金鹰纪实高清,http://113.102.83.21:4022/rtp/239.77.0.160:5146
+ 上海纪实高清,http://113.102.83.21:4022/rtp/239.77.1.216:5146
+ 上海纪实高清,http://113.102.83.21:4022/rtp/239.77.0.147:5146
+ 求索纪录高清,http://113.102.83.21:4022/rtp/239.77.0.21:5146
+ 天元围棋,http://113.102.83.21:4022/rtp/239.253.43.98:5146
+ 睛彩青少高清,http://113.102.83.21:4022/rtp/239.77.1.22:5146
+ 睛彩竞技高清,http://113.102.83.21:4022/rtp/239.77.1.20:5146
+ 睛彩篮球高清,http://113.102.83.21:4022/rtp/239.77.1.21:5146
+ 睛彩广场舞高清,http://113.102.83.21:4022/rtp/239.77.1.23:5146
+ IPTV1高清,http://113.102.83.21:4022/rtp/239.77.1.7:5146
+ IPTV1高清,http://113.102.83.21:4022/rtp/239.77.1.203:5146
+ IPTV2高清,http://113.102.83.21:4022/rtp/239.77.1.8:5146
+ IPTV2高清,http://113.102.83.21:4022/rtp/239.77.1.201:5146
+ IPTV3高清,http://113.102.83.21:4022/rtp/239.77.1.9:5146
+ IPTV4高清,http://113.102.83.21:4022/rtp/239.77.1.10:5146
+ 爱体育高清,http://113.102.83.21:4022/rtp/239.77.0.176:5146
+ 爱体育高清,http://113.102.83.21:4022/rtp/239.77.1.116:5146
+ IPTV少儿动画,http://113.102.83.21:4022/rtp/239.77.1.91:5146
+IPTV热播剧场,http://113.102.83.21:4022/rtp/239.77.1.90:5146
+IPTV经典电影,http://113.102.83.21:4022/rtp/239.77.1.89:5146
+IPTV魅力时尚,http://113.102.83.21:4022/rtp/239.77.1.88:5146
+华数少儿动画,http://113.102.83.21:4022/rtp/239.77.0.109:5146
+华数热播剧场,http://113.102.83.21:4022/rtp/239.77.0.106:5146
+华数爱大剧1,http://113.102.83.21:4022/rtp/239.77.0.105:5146
+华数爱大剧2,http://113.102.83.21:4022/rtp/239.77.0.110:5146
+华数爱电影,http://113.102.83.21:4022/rtp/239.77.0.103:5146
+华数爱电影,http://113.102.83.21:4022/rtp/239.77.1.138:5146
+华数电视剧,http://113.102.83.21:4022/rtp/239.77.1.82:5146
+华数谍战剧场,http://113.102.83.21:4022/rtp/239.77.1.83:5146
+爱体育,http://113.102.83.21:4022/rtp/239.77.1.116:5146
+爱体育,http://113.102.83.21:4022/rtp/239.77.0.108:5146
+求索记录,http://113.102.83.21:4022/rtp/239.77.0.21:5146
+财富天下,http://113.102.83.21:4022/rtp/239.77.0.113:5146
+IPTV谍战剧场,http://113.102.83.21:4022/rtp/239.77.0.99:5146
+IPTV相声小品,http://113.102.83.21:4022/rtp/239.77.1.84:5146
+IPTV野外,http://113.102.83.21:4022/rtp/239.77.1.85:5146
+IPTV野外,http://113.102.83.21:4022/rtp/239.77.0.101:5146
+IPTV法治,http://113.102.83.21:4022/rtp/239.77.1.86:5146
+经典电影,http://113.102.83.21:4022/rtp/239.77.0.104:5146
+IPTV宣传,http://113.102.83.21:4022/rtp/239.77.1.183:5146
+IPTV宣传,http://113.102.83.21:4022/rtp/239.77.1.184:5146
+百事通高清,http://113.102.83.21:4022/rtp/239.253.43.115:5146
+ 百事通高清,http://113.102.83.21:4022/rtp/239.253.43.116:5146
+ 百事通高清,http://113.102.83.21:4022/rtp/239.253.43.117:5146
+ 百事通高清,http://113.102.83.21:4022/rtp/239.253.43.118:5146
+ 百事通高清,http://113.102.83.21:4022/rtp/239.253.43.119:5146
 CCTV-1高清,http://116.21.204.108:9530/rtp/239.77.1.144:5146
 CCTV-2高清,http://116.21.204.108:9530/rtp/239.77.1.158:5146
 CCTV-3高清,http://116.21.204.108:9530/rtp/239.77.0.169:5146
@@ -3780,94 +3919,94 @@ BRTV纪实科教,http://hm.gaoweb.top:7000/rtp/225.1.5.74:1384
 欢腾购物+,http://hm.gaoweb.top:7000/rtp/225.1.4.236:1282
 健康河南,http://hm.gaoweb.top:7000/rtp/225.1.5.48:1358
 山东联通,#genre#    	
-CCTV1,http://123.235.206.166:4000/rtp/239.253.254.77:8000
-CCTV2,http://123.235.206.166:4000/rtp/239.253.254.232:8000
-CCTV3,http://123.235.206.166:4000/rtp/239.253.254.191:8000
-CCTV4,http://123.235.206.166:4000/rtp/239.253.254.111:8000
-CCTV4,http://123.235.206.166:4000/rtp/239.253.254.186:8000
-CCTV4,http://123.235.206.166:4000/rtp/239.253.254.187:8000
-CCTV5,http://123.235.206.166:4000/rtp/239.253.254.192:8000
-CCTV5+,http://123.235.206.166:4000/rtp/239.253.254.80:8000
-CCTV6,http://123.235.206.166:4000/rtp/239.253.254.193:8000
-CCTV7,http://123.235.206.166:4000/rtp/239.253.254.233:8000
-CCTV8,http://123.235.206.166:4000/rtp/239.253.254.194:8000
-CCTV9,http://123.235.206.166:4000/rtp/239.253.254.79:8000
-CCTV10,http://123.235.206.166:4000/rtp/239.253.254.234:8000
-CCTV11,http://123.235.206.166:4000/rtp/239.253.254.169:8000
-CCTV12,http://123.235.206.166:4000/rtp/239.253.254.235:8000
-CCTV13,http://123.235.206.166:4000/rtp/239.253.254.175:8000
-CCTV14,http://123.235.206.166:4000/rtp/239.253.254.236:8000
-CCTV15,http://123.235.206.166:4000/rtp/239.253.254.170:8000
-CCTV17,http://123.235.206.166:4000/rtp/239.253.254.168:8000
-CETV1,http://123.235.206.166:4000/rtp/239.253.254.110:8000
-CETV4,http://123.235.206.166:4000/rtp/239.253.254.116:8000
-CHC动作电影,http://123.235.206.166:4000/rtp/239.253.254.153:8000
-CHC高清电影,http://123.235.206.166:4000/rtp/239.253.254.154:8000
-CHC家庭影院,http://123.235.206.166:4000/rtp/239.253.254.152:8000
-浙江卫视,http://123.235.206.166:4000/rtp/239.253.254.84:8000
-安徽卫视,http://123.235.206.166:4000/rtp/239.253.254.87:8000
-云南卫视,http://123.235.206.166:4000/rtp/239.253.254.196:8000
-北京卫视,http://123.235.206.166:4000/rtp/239.253.254.85:8000
-茶频道,http://123.235.206.166:4000/rtp/239.253.254.143:8000
-东方财经,http://123.235.206.166:4000/rtp/239.253.254.94:8000
-东方卫视,http://123.235.206.166:4000/rtp/239.253.254.86:8000
-东南卫视,http://123.235.206.166:4000/rtp/239.253.254.105:8000
-动漫秀场,http://123.235.206.166:4000/rtp/239.253.254.115:8000
-都市剧场,http://123.235.206.166:4000/rtp/239.253.254.98:8000
-法治天地,http://123.235.206.166:4000/rtp/239.253.254.96:8000
-甘肃卫视,http://123.235.206.166:4000/rtp/239.253.254.74:8000
-广东卫视,http://123.235.206.166:4000/rtp/239.253.254.90:8000
-广西卫视,http://123.235.206.166:4000/rtp/239.253.254.197:8000
-贵州卫视,http://123.235.206.166:4000/rtp/239.253.254.113:8000
-海南卫视,http://123.235.206.166:4000/rtp/239.253.254.179:8000
-海洋卫视,http://123.235.206.166:4000/rtp/239.253.254.67:8000
-河北卫视,http://123.235.206.166:4000/rtp/239.253.254.112:8000
-河南卫视,http://123.235.206.166:4000/rtp/239.253.254.190:8000
-黑龙江卫视,http://123.235.206.166:4000/rtp/239.253.254.93:8000
-湖北卫视,http://123.235.206.166:4000/rtp/239.253.254.88:8000
-湖南卫视,http://123.235.206.166:4000/rtp/239.253.254.82:8000
-吉林卫视,http://123.235.206.166:4000/rtp/239.253.254.173:8000
-江苏卫视,http://123.235.206.166:4000/rtp/239.253.254.83:8000
-江西卫视,http://123.235.206.166:4000/rtp/239.253.254.47:8000
-辽宁卫视,http://123.235.206.166:4000/rtp/239.253.254.92:8000
-重庆卫视,http://123.235.206.166:4000/rtp/239.253.254.38:8000
-深圳卫视,http://123.235.206.166:4000/rtp/239.253.254.91:8000
-四川卫视,http://123.235.206.166:4000/rtp/239.253.254.180:8000
-金色学堂,http://123.235.206.166:4000/rtp/239.253.254.101:8000
-金鹰纪实,http://123.235.206.166:4000/rtp/239.253.254.103:8000
-金鹰卡通,http://123.235.206.166:4000/rtp/239.253.254.117:8000
-精彩电影,http://123.235.206.166:4000/rtp/239.253.254.142:8000
-卡酷少儿,http://123.235.206.166:4000/rtp/239.253.254.66:8000
-莱西,http://123.235.206.166:4000/rtp/239.253.254.247:8000
-崂山,http://123.235.206.166:4000/rtp/239.253.254.242:8000
-梨园,http://123.235.206.166:4000/rtp/239.253.254.139:8000
-魅力足球,http://123.235.206.166:4000/rtp/239.253.254.100:8000
-生活时尚,http://123.235.206.166:4000/rtp/239.253.254.99:8000
-四海钓鱼,http://123.235.206.166:4000/rtp/239.253.254.109:8000
-四海钓鱼,http://123.235.206.166:4000/rtp/239.253.254.144:8000
-天津卫视,http://123.235.206.166:4000/rtp/239.253.254.89:8000
-文物宝库,http://123.235.206.166:4000/rtp/239.253.254.141:8000
-武术世界,http://123.235.206.166:4000/rtp/239.253.254.140:8000
-中国交通,http://123.235.206.166:4000/rtp/239.253.254.177:8000
-综合,http://123.235.206.166:4000/rtp/239.253.254.245:8000
-综合,http://123.235.206.166:4000/rtp/239.253.254.246:8000
-游戏风云,http://123.235.206.166:4000/rtp/239.253.254.95:80
-山东平度,http://123.235.206.166:4000/rtp/239.253.254.248:8000
-青岛李沧,http://123.235.206.166:4000/rtp/239.253.254.249:8000
-青岛生活,http://123.235.206.166:4000/rtp/239.253.254.244:8000
-青岛综合,http://123.235.206.166:4000/rtp/239.253.254.243:8000
-青海卫视,http://123.235.206.166:4000/rtp/239.253.254.195:8000
-山东购物,http://123.235.206.166:4000/rtp/239.253.254.104:8000
-山东教育,http://123.235.206.166:4000/rtp/239.253.254.59:8000
-山东农科,http://123.235.206.166:4000/rtp/239.253.254.24:8000
-山东齐鲁,http://123.235.206.166:4000/rtp/239.253.254.114:8000
-山东少儿,http://123.235.206.166:4000/rtp/239.253.254.25:8000
-山东生活,http://123.235.206.166:4000/rtp/239.253.254.151:8000
-山东体育,http://123.235.206.166:4000/rtp/239.253.254.22:8000
-山东卫视,http://123.235.206.166:4000/rtp/239.253.254.78:8000
-山东文旅,http://123.235.206.166:4000/rtp/239.253.254.160:8000
-山东新闻,http://123.235.206.166:4000/rtp/239.253.254.23:8000
-山东综艺,http://123.235.206.166:4000/rtp/239.253.254.159:8000
+CCTV1,http://112.226.103.48:4000/rtp/239.253.254.77:8000
+CCTV2,http://112.226.103.48:4000/rtp/239.253.254.232:8000
+CCTV3,http://112.226.103.48:4000/rtp/239.253.254.191:8000
+CCTV4,http://112.226.103.48:4000/rtp/239.253.254.111:8000
+CCTV4,http://112.226.103.48:4000/rtp/239.253.254.186:8000
+CCTV4,http://112.226.103.48:4000/rtp/239.253.254.187:8000
+CCTV5,http://112.226.103.48:4000/rtp/239.253.254.192:8000
+CCTV5+,http://112.226.103.48:4000/rtp/239.253.254.80:8000
+CCTV6,http://112.226.103.48:4000/rtp/239.253.254.193:8000
+CCTV7,http://112.226.103.48:4000/rtp/239.253.254.233:8000
+CCTV8,http://112.226.103.48:4000/rtp/239.253.254.194:8000
+CCTV9,http://112.226.103.48:4000/rtp/239.253.254.79:8000
+CCTV10,http://112.226.103.48:4000/rtp/239.253.254.234:8000
+CCTV11,http://112.226.103.48:4000/rtp/239.253.254.169:8000
+CCTV12,http://112.226.103.48:4000/rtp/239.253.254.235:8000
+CCTV13,http://112.226.103.48:4000/rtp/239.253.254.175:8000
+CCTV14,http://112.226.103.48:4000/rtp/239.253.254.236:8000
+CCTV15,http://112.226.103.48:4000/rtp/239.253.254.170:8000
+CCTV17,http://112.226.103.48:4000/rtp/239.253.254.168:8000
+CETV1,http://112.226.103.48:4000/rtp/239.253.254.110:8000
+CETV4,http://112.226.103.48:4000/rtp/239.253.254.116:8000
+CHC动作电影,http://112.226.103.48:4000/rtp/239.253.254.153:8000
+CHC高清电影,http://112.226.103.48:4000/rtp/239.253.254.154:8000
+CHC家庭影院,http://112.226.103.48:4000/rtp/239.253.254.152:8000
+浙江卫视,http://112.226.103.48:4000/rtp/239.253.254.84:8000
+安徽卫视,http://112.226.103.48:4000/rtp/239.253.254.87:8000
+云南卫视,http://112.226.103.48:4000/rtp/239.253.254.196:8000
+北京卫视,http://112.226.103.48:4000/rtp/239.253.254.85:8000
+茶频道,http://112.226.103.48:4000/rtp/239.253.254.143:8000
+东方财经,http://112.226.103.48:4000/rtp/239.253.254.94:8000
+东方卫视,http://112.226.103.48:4000/rtp/239.253.254.86:8000
+东南卫视,http://112.226.103.48:4000/rtp/239.253.254.105:8000
+动漫秀场,http://112.226.103.48:4000/rtp/239.253.254.115:8000
+都市剧场,http://112.226.103.48:4000/rtp/239.253.254.98:8000
+法治天地,http://112.226.103.48:4000/rtp/239.253.254.96:8000
+甘肃卫视,http://112.226.103.48:4000/rtp/239.253.254.74:8000
+广东卫视,http://112.226.103.48:4000/rtp/239.253.254.90:8000
+广西卫视,http://112.226.103.48:4000/rtp/239.253.254.197:8000
+贵州卫视,http://112.226.103.48:4000/rtp/239.253.254.113:8000
+海南卫视,http://112.226.103.48:4000/rtp/239.253.254.179:8000
+海洋卫视,http://112.226.103.48:4000/rtp/239.253.254.67:8000
+河北卫视,http://112.226.103.48:4000/rtp/239.253.254.112:8000
+河南卫视,http://112.226.103.48:4000/rtp/239.253.254.190:8000
+黑龙江卫视,http://112.226.103.48:4000/rtp/239.253.254.93:8000
+湖北卫视,http://112.226.103.48:4000/rtp/239.253.254.88:8000
+湖南卫视,http://112.226.103.48:4000/rtp/239.253.254.82:8000
+吉林卫视,http://112.226.103.48:4000/rtp/239.253.254.173:8000
+江苏卫视,http://112.226.103.48:4000/rtp/239.253.254.83:8000
+江西卫视,http://112.226.103.48:4000/rtp/239.253.254.47:8000
+辽宁卫视,http://112.226.103.48:4000/rtp/239.253.254.92:8000
+重庆卫视,http://112.226.103.48:4000/rtp/239.253.254.38:8000
+深圳卫视,http://112.226.103.48:4000/rtp/239.253.254.91:8000
+四川卫视,http://112.226.103.48:4000/rtp/239.253.254.180:8000
+金色学堂,http://112.226.103.48:4000/rtp/239.253.254.101:8000
+金鹰纪实,http://112.226.103.48:4000/rtp/239.253.254.103:8000
+金鹰卡通,http://112.226.103.48:4000/rtp/239.253.254.117:8000
+精彩电影,http://112.226.103.48:4000/rtp/239.253.254.142:8000
+卡酷少儿,http://112.226.103.48:4000/rtp/239.253.254.66:8000
+莱西,http://112.226.103.48:4000/rtp/239.253.254.247:8000
+崂山,http://112.226.103.48:4000/rtp/239.253.254.242:8000
+梨园,http://112.226.103.48:4000/rtp/239.253.254.139:8000
+魅力足球,http://112.226.103.48:4000/rtp/239.253.254.100:8000
+生活时尚,http://112.226.103.48:4000/rtp/239.253.254.99:8000
+四海钓鱼,http://112.226.103.48:4000/rtp/239.253.254.109:8000
+四海钓鱼,http://112.226.103.48:4000/rtp/239.253.254.144:8000
+天津卫视,http://112.226.103.48:4000/rtp/239.253.254.89:8000
+文物宝库,http://112.226.103.48:4000/rtp/239.253.254.141:8000
+武术世界,http://112.226.103.48:4000/rtp/239.253.254.140:8000
+中国交通,http://112.226.103.48:4000/rtp/239.253.254.177:8000
+综合,http://112.226.103.48:4000/rtp/239.253.254.245:8000
+综合,http://112.226.103.48:4000/rtp/239.253.254.246:8000
+游戏风云,http://112.226.103.48:4000/rtp/239.253.254.95:80
+山东平度,http://112.226.103.48:4000/rtp/239.253.254.248:8000
+青岛李沧,http://112.226.103.48:4000/rtp/239.253.254.249:8000
+青岛生活,http://112.226.103.48:4000/rtp/239.253.254.244:8000
+青岛综合,http://112.226.103.48:4000/rtp/239.253.254.243:8000
+青海卫视,http://112.226.103.48:4000/rtp/239.253.254.195:8000
+山东购物,http://112.226.103.48:4000/rtp/239.253.254.104:8000
+山东教育,http://112.226.103.48:4000/rtp/239.253.254.59:8000
+山东农科,http://112.226.103.48:4000/rtp/239.253.254.24:8000
+山东齐鲁,http://112.226.103.48:4000/rtp/239.253.254.114:8000
+山东少儿,http://112.226.103.48:4000/rtp/239.253.254.25:8000
+山东生活,http://112.226.103.48:4000/rtp/239.253.254.151:8000
+山东体育,http://112.226.103.48:4000/rtp/239.253.254.22:8000
+山东卫视,http://112.226.103.48:4000/rtp/239.253.254.78:8000
+山东文旅,http://112.226.103.48:4000/rtp/239.253.254.160:8000
+山东新闻,http://112.226.103.48:4000/rtp/239.253.254.23:8000
+山东综艺,http://112.226.103.48:4000/rtp/239.253.254.159:8000
 
 
 CCTV1,http://123.235.210.222:4000/rtp/239.253.254.77:8000
