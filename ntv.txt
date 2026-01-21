@@ -1,68 +1,4 @@
 老陈央卫1,#genre#
-CCTV1-综合,http://182.207.218.96:999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://182.207.218.96:999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://182.207.218.96:999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://182.207.218.96:999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://182.207.218.96:999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://182.207.218.96:999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://182.207.218.96:999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://182.207.218.96:999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://182.207.218.96:999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://182.207.218.96:999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://182.207.218.96:999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://182.207.218.96:999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://182.207.218.96:999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://182.207.218.96:999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://182.207.218.96:999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://182.207.218.96:999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://182.207.218.96:999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://182.207.218.96:999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://182.207.218.96:999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://182.207.218.96:999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://182.207.218.96:999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://182.207.218.96:999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://182.207.218.96:999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://182.207.218.96:999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://182.207.218.96:999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://182.207.218.96:999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://182.207.218.96:999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://182.207.218.96:999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://182.207.218.96:999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://182.207.218.96:999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://182.207.218.96:999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://182.207.218.96:999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://182.207.218.96:999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://182.207.218.96:999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://182.207.218.96:999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://182.207.218.96:999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://182.207.218.96:999/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://182.207.218.96:999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://182.207.218.96:999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://182.207.218.96:999/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://182.207.218.96:999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://182.207.218.96:999/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://182.207.218.96:999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://182.207.218.96:999/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://182.207.218.96:999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://182.207.218.96:999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://182.207.218.96:999/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://182.207.218.96:999/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁都市,http://182.207.218.96:999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视剧,http://182.207.218.96:999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://182.207.218.96:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://182.207.218.96:999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁教育青少,http://182.207.218.96:999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁北方,http://182.207.218.96:999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://182.207.218.96:999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://182.207.218.96:999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁移动电视,http://182.207.218.96:999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://182.207.218.96:999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-延边卫视,http://182.207.218.96:999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://182.207.218.96:999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://182.207.218.96:999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://182.207.218.96:999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://182.207.218.96:999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-高清电影,http://182.207.218.96:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2 财经,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3 综艺,http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -113,7 +49,8 @@ CGTN,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&
 Channel [V],http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰卫视中文台,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 星空卫视,http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
-老陈央卫3,#genre#,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+
+老陈央卫2,#genre#,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
 重温经典,http://219.146.65.78:59902/tsfile/live/0150_1.m3u8
 凤凰中文,http://m.061899.xyz/mg/fhzw
 凤凰资讯,http://m.061899.xyz/mg/fhzx
@@ -189,29 +126,8 @@ CCTV17,http://m.061899.xyz/mg/cctv17
 广东新闻,http://m.061899.xyz/mg/gdxw
 广东民生,http://m.061899.xyz/mg/gdms
 广东体育,http://m.061899.xyz/mg/gdty
-老陈4K,#genre#
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=96fdfd991d57ea374763eba7334ca232
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=96fdfd991d57ea374763eba7334ca232
-河南卫视4k,http://zh.sqitv.com:888/hls/82/index.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-CCTV-16奥林匹克4K,https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-CCTV-4K超高清,https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-北京卫视4K,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-东方卫视4K,https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-江苏卫视4K,https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-浙江卫视4K,https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-山东卫视4K,https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-湖南卫视4K,https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-广东卫视4K,https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-深圳卫视4K,https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-四川卫视4K,https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-欢笑剧场4K,https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
-纯享4K,https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
 
-
-老陈央卫4,#genre#
+老陈央卫3,#genre#
 CCTV-1综合,https://live.tv.darwinchow.com/channel/cctv1?livekey=01WTlEv3FA1Fasd8aRMoOdT76dNrn2gH3Hdgu&userkey=a3b06b2dae5c55c3
 CCTV-2财经,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WTlEv3FA1Fasd8aRMoOdT76dNrn2gH3Hdgu&userkey=a3b06b2dae5c55c3
 CCTV-3综艺,https://live.tv.darwinchow.com/channel/cctv3?livekey=01WTlEv3FA1Fasd8aRMoOdT76dNrn2gH3Hdgu&userkey=a3b06b2dae5c55c3
@@ -424,6 +340,26 @@ CHC动作电影,https://live.tv.darwinchow.com/channel/chcdongzuodianying?liveke
 福建旅游,https://live.tv.darwinchow.com/channel/fujianlvyou?livekey=01WTlEv3FA1Fasd8aRMoOdT76dNrn2gH3Hdgu&userkey=a3b06b2dae5c55c3
 福建文体,https://live.tv.darwinchow.com/channel/fujianwenti?livekey=01WTlEv3FA1Fasd8aRMoOdT76dNrn2gH3Hdgu&userkey=a3b06b2dae5c55c3
 
+老陈4K,#genre#
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=96fdfd991d57ea374763eba7334ca232
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=96fdfd991d57ea374763eba7334ca232
+河南卫视4k,http://zh.sqitv.com:888/hls/82/index.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+CCTV-16奥林匹克4K,https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+CCTV-4K超高清,https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+北京卫视4K,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+东方卫视4K,https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+江苏卫视4K,https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+浙江卫视4K,https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+山东卫视4K,https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+湖南卫视4K,https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+广东卫视4K,https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+深圳卫视4K,https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+四川卫视4K,https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+欢笑剧场4K,https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
+纯享4K,https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTlEv3FA1Fasd8aP3TCe34ZiMyYZ3YiCn8X&userkey=a3b06b2dae5c55c3
 
 浙江组播,#genre#
 CCTV1,http://bgs.cchui.fun:7912/rtp/233.50.200.99:5140
@@ -10246,6 +10182,7 @@ X新闻综合,http://192.168.0.146:22116/proxy/ybyd/hwvod.yn.chinamobile.com/PLT
 弥渡广电,http://192.168.0.146:22116/proxy/ybyd/hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225981/index.m3u8?token=cgj333
 4K修复UD,http://192.168.0.146:22116/proxy/ybyd/hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226295/index.m3u8?token=cgj333
 4K修复UD,http://192.168.0.146:22116/proxy/ybyd/hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226306/index.m3u8?token=cgj333
+
 
 
 
