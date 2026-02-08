@@ -1,6 +1,6 @@
 globalThis.vod1 = function(ids) {
     let html1 = request('https://pbaccess.video.qq.com/trpc.videosearch.mobile_search.MultiTerminalSearch/MbSearch?vplatform=2', {
-        body: JSON.stringify({
+        body: {
             "version": "25042201",
             "clientType": 1,
             "filterValue": "",
@@ -23,29 +23,35 @@ globalThis.vod1 = function(ids) {
                 "sugRelatedIds": "{}",
                 "appVersion": ""
             }
-        }),
+        },
         headers: {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36',
             'Content-Type': 'application/json',
             'origin': 'https://v.qq.com',
-            'referer': 'https://v.qq.com'
+            'referer': 'https://v.qq.com/'
         },
         'method': 'POST'
-    });
+    }, true);
     return html1;
-};
-
+}
 var rule = {
     title: '腾云驾雾[官]',
-    host: 'https://v.qq.com',
+    host: 'https://v.%71%71.com',
+    // homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
     homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=cartoon&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
-    detailUrl: 'https://node.video.qq.com/x/api/float_vinfo2?cid=fyid',
-    searchUrl: 'https://pbaccess.video.qq.com/trpc.videosearch.smartboxServer.HttpRountRecall/Smartbox?query=**&appID=3172&appKey=lGhFIPeD3HsO9xEp&pageNum=(fypage-1)&pageSize=10',
+    detailUrl: 'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
+    searchUrl: '/x/search/?q=**&stag=fypage',
+    searchUrl: 'https://pbaccess.video.%71%71.com/trpc.videosearch.smartboxServer.HttpRountRecall/Smartbox?query=**&appID=3172&appKey=lGhFIPeD3HsO9xEp&pageNum=(fypage-1)&pageSize=10',
+    searchUrl: '**',
     searchable: 2,
     filterable: 1,
     multi: 1,
+    // url:'/channel/fyclass?listpage=fypage&channel=fyclass&sort=18&_all=1',
     url: '/x/bu/pagesheet/list?_all=1&append=1&channel=fyclass&listpage=1&offset=((fypage-1)*21)&pagesize=21&iarea=-1',
+    // filter_url: 'sort={{fl.sort or 18}}&year={{fl.year}}&pay={{fl.pay}}',
+    // filter_url: 'sort={{fl.sort or 75}}&year={{fl.year}}&pay={{fl.pay}}',
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
+    // filter: 'H4sIAAAAAAAAA+2UzUrDQBCA32XOEZLUJrGvIj0saaDBNisxBkIJCG3Fi4oepIg3EQoieqiH+vM23Zq+hRuaZLZ4ce9z2/lmd2d2+NgR+H0e+gF0DkdwFGTQgRMeJ2BAxIaSwvrqVnxcyzhlg9PttqjED2c/45cSy8DyIDcavr57q/lBw8XTd/E6qbnT8M3zTFyc72RtC/Jumd+2c8wy7KZ4nxSL5Z9uxHS+Gc+r83sWVp1eVttl4Dluk1h93YubWZVwduplAYuxoFguVp+P/y5om/Z+/YxyqfAW8pbKbeS2yi3kO/ebyE2Fy1nXXBm7DDzknspd5K7KHeSOytvI2+XAugYkKWlD2mhrM+RpSB8OmaNvTsriMEgycofc0XbHZ3HCeUTukDv67vTDQY/MIXO0zelxn5M4JI6mOPkvgswSEpgPAAA=',
     filter: {
         "choice": [{
             "key": "sort",
@@ -671,180 +677,259 @@ var rule = {
         }]
     },
     headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36'
+        'User-Agent': 'PC_UA'
     },
     timeout: 5000,
+    // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude: '会员|游戏|全部',
+    // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
+    // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
     class_name: '暗黑4k奇迹4k电视剧&暗黑4k奇迹4k电影&暗黑4k奇迹4k综艺&暗黑4k奇迹4k动漫&暗黑4k奇迹4k少儿&暗黑4k奇迹4k纪录片',
     class_url: 'tv&movie&variety&cartoon&child&doco',
     limit: 20,
+    // play_parse:true,
+    // 手动调用解析请求json的url,此lazy不方便
     play_parse: true,
-    
     lazy: $js.toString(() => {
         try {
-            let api = input.split("?")[0];
-            console.log("lazy api:", api);
-            let response = request(api, {
+            let api = "" + input.split("?")[0];
+            console.log(api);
+            let response = fetch(api, {
+                method: 'get',
                 headers: {
-                    'User-Agent': 'okhttp/3.14.9'
+                    'User-Agent': 'okhttp/3.14.9',
+                    'Content-Type': 'application/x-www-form-urlencoded'
                 }
             });
-            
-            let data = JSON.parse(response);
-            
-            if (data.url && data.url.includes("qq.com")) {
+
+            let bata = JSON.parse(response);
+            log(bata)
+            if (bata.url.includes("qq")) {
                 input = {
-                    jx: 0,
-                    url: data.url,
+                    header: {
+                        'User-Agent': ""
+                    },
                     parse: 0,
-                    header: {'User-Agent': 'okhttp/3.14.9'}
+                    url: bata.url,
+                    jx: 0,
+                    danmaku: '' + input.split("?")[0]
                 };
             } else {
+
                 input = {
-                    jx: 1,
-                    url: api,
+                    header: {
+                        'User-Agent': ""
+                    },
                     parse: 0,
-                    header: {'User-Agent': 'okhttp/3.14.9'}
+                    url: input.split("?")[0],
+                    jx: 1,
+                    danmaku: '' + input.split("?")[0]
                 };
             }
-        } catch (e) {
-            console.log("lazy error:", e);
+        } catch {
             input = {
-                jx: 1,
-                url: input.split("?")[0],
+                header: {
+                    'User-Agent': ""
+                },
                 parse: 0,
-                header: {'User-Agent': 'okhttp/3.14.9'}
+                url: input.split("?")[0],
+                jx: 1,
+                danmaku: '' + input.split("?")[0]
             };
         }
     }),
-    
-    推荐: $js.toString(() => {
-        let d = [];
-        let html = request(rule.host + rule.homeUrl, {
-            headers: rule.headers
-        });
-        
-        let $ = cheerio.load(html);
-        $('.list_item').each(function(i, elem) {
-            let title = $(this).find('img').attr('alt') || '';
-            let img = $(this).find('img').attr('src') || '';
-            let desc = $(this).find('a').text() || '';
-            let url = $(this).find('a').attr('data-float') || '';
-            
-            if (url) {
-                d.push({
-                    title: title,
-                    img: img,
-                    desc: desc,
-                    url: url
-                });
-            }
-        });
-        
-        return JSON.stringify(d);
-    }),
-    
-    一级: $js.toString(() => {
-        let d = [];
-        let params = {
-            headers: rule.headers
-        };
-        
-        let html = request(rule.host + input, params);
-        
-        let $ = cheerio.load(html);
-        $('.list_item').each(function(i, elem) {
-            let title = $(this).find('img').attr('alt') || '';
-            let img = $(this).find('img').attr('src') || '';
-            let desc = $(this).find('a').text() || '';
-            let url = $(this).find('a').attr('data-float') || '';
-            
-            if (url) {
-                d.push({
-                    title: title,
-                    img: img,
-                    desc: desc,
-                    url: url
-                });
-            }
-        });
-        
-        return JSON.stringify(d);
-    }),
-    
+    推荐: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
+    一级: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     二级: $js.toString(() => {
-        let VOD = {};
-        let playList = [];
-        let urlPattern = /cid=([^&]+)/;
-        let match = input.match(urlPattern);
-        let cid = match ? match[1] : "";
-        
+        VOD = {};
+        let d = [];
+        let video_list = [];
+        let video_lists = [];
+        let list = [];
+        let QZOutputJson;
+        let html = fetch(input, fetch_params);
+        let sourceId = /get_playsource/.test(input) ? input.match(/id=(\d*?)&/)[1] : input.split("cid=")[1];
+        let cid = sourceId;
+        let detailUrl = "https://v.%71%71.com/detail/m/" + cid + ".html";
+        log("详情页:" + detailUrl);
+        pdfh = jsp.pdfh;
+        pd = jsp.pd;
         try {
-            let html = request(input, {headers: rule.headers});
-            let data = JSON.parse(html);
-            
-            VOD.vod_name = data.c.title || "";
-            VOD.vod_pic = data.c.pic || "";
-            VOD.vod_year = data.c.year || "";
-            VOD.vod_actor = data.nam ? data.nam.join(",") : "";
-            VOD.vod_director = "";
-            VOD.vod_content = data.c.description || "";
-            VOD.vod_remarks = data.rec || "";
-            
-            if (data.c && data.c.video_ids && data.c.video_ids.length > 0) {
-                let videoIds = data.c.video_ids;
-                if (videoIds.length === 1) {
-                    let vid = videoIds[0];
-                    playList.push({
-                        title: "暗黑4k奇迹臻彩",
-                        url: `https://v.qq.com/x/cover/${cid}/${vid}.html`
-                    });
-                } else {
-                    for (let i = 0; i < videoIds.length; i++) {
-                        let vid = videoIds[i];
-                        playList.push({
-                            title: `第${i + 1}集`,
-                            url: `https://v.qq.com/x/cover/${cid}/${vid}.html`
-                        });
-                    }
-                }
-                
-                VOD.vod_play_from = "❤️暗黑4k奇迹";
-                VOD.vod_play_url = playList.map(item => item.title + "$" + item.url).join("#");
+            let json = JSON.parse(html);
+            VOD = {
+                vod_url: input,
+                vod_name: json.c.title,
+                type_name: json.typ.join(","),
+                vod_actor: json.nam.join(","),
+                vod_year: json.c.year,
+                vod_content: json.c.description,
+                vod_remarks: json.rec,
+                vod_pic: urljoin2(input, json.c.pic)
             }
         } catch (e) {
-            console.log("二级解析错误:", e);
+            log("解析片名海报等基础信息发生错误:" + e.message)
         }
-        
-        return JSON.stringify(VOD);
+        if (/get_playsource/.test(input)) {
+            eval(html);
+            let indexList = QZOutputJson.PlaylistItem.indexList;
+            indexList.forEach(function(it) {
+                let dataUrl = "https://s.video.qq.com/get_playsource?id=" + sourceId + "&plat=2&type=4&data_type=3&range=" + it + "&video_type=10&plname=qq&otype=json";
+                eval(fetch(dataUrl, fetch_params));
+                let vdata = QZOutputJson.PlaylistItem.videoPlayList;
+                vdata.forEach(function(item) {
+                    d.push({
+                        title: item.title,
+                        pic_url: item.pic,
+                        desc: item.episode_number + "\t\t\t播放量：" + item.thirdLine,
+                        url: item.playUrl
+                    })
+                });
+                video_lists = video_lists.concat(vdata)
+            })
+        } else {
+            let json = JSON.parse(html);
+            video_lists = json.c.video_ids;
+            let url = "https://v.qq.com/x/cover/" + sourceId + ".html";
+            if (video_lists.length === 1) {
+                let vid = video_lists[0];
+                url = "https://v.qq.com/x/cover/" + cid + "/" + vid + ".html";
+                d.push({
+                    title: "暗黑4k奇迹臻彩",
+                    url: url
+                })
+            } else if (video_lists.length > 1) {
+                for (let i = 0; i < video_lists.length; i += 30) {
+                    video_list.push(video_lists.slice(i, i + 30))
+                }
+                video_list.forEach(function(it, idex) {
+                    let o_url = "https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1804&appid=20001238&appkey=6c03bbe9658448a4&union_platform=1&idlist=" + it.join(",");
+                    let o_html = fetch(o_url, fetch_params);
+                    eval(o_html);
+                    QZOutputJson.results.forEach(function(it1) {
+                        it1 = it1.fields;
+                        let url = "https://v.qq.com/x/cover/" + cid + "/" + it1.vid + ".html";
+                        d.push({
+                            title: it1.title,
+                            pic_url: it1.pic160x90.replace("/160", ""),
+                            desc: it1.video_checkup_time,
+                            url: url,
+                            type: it1.category_map && it1.category_map.length > 1 ? it1.category_map[1] : ""
+                        })
+                    })
+                })
+            }
+        }
+        let yg = d.filter(function(it) {
+            return it.type && it.type !== "正片"
+        });
+        let zp = d.filter(function(it) {
+            return !(it.type && it.type !== "正片")
+        });
+        VOD.vod_play_from = yg.length < 1 ? "❤️暗黑4k奇迹" : "暗黑4k奇迹❤️";
+        VOD.vod_play_url = yg.length < 1 ? d.map(function(it) {
+            return it.title + "$" + it.url
+        }).join("#") : [zp, yg].map(function(it) {
+            return it.map(function(its) {
+                return its.title + "$" + its.url
+            }).join("#")
+        }).join("$$$");
     }),
-    
     搜索: $js.toString(() => {
         let d = [];
-        let searchWord = input;
-        
-        try {
-            let html = vod1(searchWord);
-            let data = JSON.parse(html);
-            
-            if (data && data.data && data.data.normalList && data.data.normalList.itemList) {
-                let list = data.data.normalList.itemList;
-                
-                list.forEach(function(item) {
-                    if (item.doc && item.doc.id && item.videoInfo) {
-                        d.push({
-                            title: item.videoInfo.title || "",
-                            img: item.videoInfo.imgUrl || "",
-                            url: item.doc.id,
-                            desc: item.videoInfo.subTitle || ""
-                        });
-                    }
-                });
+        pdfa = jsp.pdfa;
+        pdfh = jsp.pdfh;
+        pd = jsp.pd;
+        let html = request(input);
+        let baseList = pdfa(html, "body&&.result_item_v");
+        log(baseList.length);
+        baseList.forEach(function(it) {
+            let longText = pdfh(it, ".result_title&&a&&Text");
+            let shortText = pdfh(it, ".type&&Text");
+            let fromTag = pdfh(it, ".result_source&&Text");
+            let score = pdfh(it, ".figure_info&&Text");
+            let content = pdfh(it, ".desc_text&&Text");
+            // let url = pdfh(it, ".result_title&&a&&href");
+            let url = pdfh(it, "div&&r-data");
+            // log(longText);
+            // log(shortText);
+            // log('url:'+url);
+            let img = pd(it, ".figure_pic&&src");
+            url = "https://node.video.qq.com/x/api/float_vinfo2?cid=" + url.match(/.*\/(.*?)\.html/)[1];
+            log(shortText + "|" + url);
+            if (fromTag.match(/腾讯/)) {
+                d.push({
+                    title: longText.split(shortText)[0],
+                    img: img,
+                    url: url,
+                    content: content,
+                    desc: shortText + " " + score
+                })
             }
-        } catch (e) {
-            console.log("搜索错误:", e);
+        });
+        setResult(d);
+    }),
+    搜索: $js.toString(() => {
+        let d = [];
+        let html = request(input);
+        let json = JSON.parse(html);
+        if (json.data.smartboxItemList.length > 0) {
+            let cid = json.data.smartboxItemList[0].basicDoc.id;
+            let url = 'https://node.video.qq.com/x/api/float_vinfo2?cid=' + cid;
+            let html1 = request(url);
+            let data = JSON.parse(html1);
+
+            d.push({
+                title: data.c.title,
+                img: data.c.pic,
+                url: url,
+                content: data.c.description,
+                desc: data.rec
+            });
         }
-        
-        return JSON.stringify(d);
+        setResult(d);
+    }),
+    搜索: $js.toString(() => {
+        let d = [];
+        let mame = (input.split("/")[3]);
+        let html = vod1(input.split("/")[3]);
+        let json = JSON.parse(html);
+
+        let list = json.data.normalList.itemList;
+        console.log(json);
+        log(list[0].videoInfo.title);
+        list.forEach(function(it) {
+            try {
+                if (it.doc.id.length > 11) {
+                    d.push({
+                        title: it.videoInfo.title,
+                        img: it.videoInfo.imgUrl,
+                        url: it.doc.id,
+                        // content: "",
+                        //desc: "data.rec"
+                    });
+                }
+            } catch {
+
+            }
+
+        });
+        let list2 = json.data.areaBoxList[0].itemList;
+        list2.forEach(function(it) {
+            try {
+                if (it.doc.id.length > 11 && it.videoInfo.title.match(mame)) {
+                    d.push({
+                        title: it.videoInfo.title,
+                        img: it.videoInfo.imgUrl,
+                        url: it.doc.id,
+                        // content: "",
+                        //desc: "data.rec"
+                    });
+                }
+            } catch {
+
+            }
+
+        });
+        setResult(d);
     })
-};
+} 
