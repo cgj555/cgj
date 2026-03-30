@@ -262,14 +262,22 @@ CCTV-16奥林匹克4K,https://live.264788.xyz/channel/cctv164k?streamid=aac7972b
 CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=793fab686a474d798d627cd73c70d613&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f50f29e98905aa48ac42cd5864c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=93acb2d859f1483a3fe6f3a46516506f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-早期教育,https://live.264788.xyz/channel/cetvcece?streamid=6c11a112236acfa38832be78da543294&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-中国天气,https://live.264788.xyz/channel/zhongguotianqi?streamid=4a1e900ecad5a3bbb14a1f5986ac5e2e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-优优宝贝,https://live.264788.xyz/channel/youyoubaobei?streamid=edaff35b43f38fdaa202556c09bf75cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-中华特产,https://live.264788.xyz/channel/zhonghuatechan?streamid=178ebb028731ddfaac7e4443ad000566&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-生态环境,https://live.264788.xyz/channel/eetv?streamid=8c8e7e151ca1e1f8a210378787ad8420&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-新动漫,https://live.264788.xyz/channel/xindongman?streamid=c6c62aab419afb0b56149d04d3e5f4cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-家庭理财,https://live.264788.xyz/channel/jiatinglicai?streamid=f808a1a79d27c5329fd98f4bdc93c6d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=82d4a4e6dd7add9e6d65efc2d765
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+翡翠台,http://cdn6.163189.xyz/163189/fct
+明珠台,http://cdn6.163189.xyz/163189/mzt
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+NOW新闻,https://cdn.163189.xyz/163189/now
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+PopC,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
+中天新闻台,http://222.128.55.152:9080/live/fc.m3u8
+TVBS HD,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGs8ZkpFx0ZzZqjEHuo2Itiv4FbhPO_a9MawRpjPFqO5rLG_M9KndZoq4pTwzN5YsgEJPtQiQvRftrRQv-970k7XxHRiAgRok3wpXwm44QOjCzi60kzyU72IA4XMGV3cpwLP3xveQPxQs8SaUOt3zoRLh8D8S5aZxUG9GDpjglkotL29bTkgAdSn-34M4Uk3vu3wSJU4wqvjtykbUdu1UOSQ.m3u8?u=1757123819
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 老陈4K,#genre#
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=96fdfd991d57ea374763eba7334ca232
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=96fdfd991d57ea374763eba7334ca232
