@@ -316,7 +316,7 @@ iptv6+,http://1.69.114.228:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&au
 iptv8+,http://1.69.114.228:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 老陈央卫3,#genre#
-CCTV1-综合 高清,http://36.136.11.221:18885/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合 高清,http://tvh.537224.xyz/http://36.136.11.221:18885/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经 高清,http://36.136.11.221:18885/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺 高清,http://36.136.11.221:18885/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际 高清,http://36.136.11.221:18885/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
